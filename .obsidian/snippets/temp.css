@@ -1,0 +1,5 @@
+/* لتغيير الخط العربي فقط */
+body {
+  font-family: "Cairo", "Tajawal", "Noto Naskh Arabic", "Amiri", "Scheherazade", sans-serif;
+}
+

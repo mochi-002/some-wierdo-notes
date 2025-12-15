@@ -1,0 +1,16 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Segoe UI,Tahoma,Arial",
+  "monospaceFontFamily": "Arial",
+  "interfaceFontFamily": "Arial,American Typewriter",
+  "enabledCssSnippets": [
+    "temp"
+  ],
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false
+}

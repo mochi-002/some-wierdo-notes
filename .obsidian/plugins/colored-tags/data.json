@@ -1,0 +1,31 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "CS50": 1,
+    "cp": 2,
+    "gym": 3,
+    "basmala": 4,
+    "contest": 5,
+    "Upsolve": 6,
+    "بعد_الفجر": 7,
+    "بعد_الضهر": 8,
+    "بعد_المغرب": 9,
+    "بعد_العشاء": 10,
+    "قبل_الفجر": 11,
+    "بعد_العصر": 12,
+    "بعد_الضحى": 13,
+    "Practical": 14,
+    "studies": 15,
+    "\u0007": 16
+  },
+  "_version": 3
+}

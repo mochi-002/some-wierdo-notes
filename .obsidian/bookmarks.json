@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1750009582370,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750009598292,
+          "path": "Islam_Study/01 - العقيدة/الأصول الثلاثة - شرح عثمان الخميس.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009604925,
+          "path": "Islam_Study/✅ نظام تتبّع التقدم.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009676648,
+          "path": "Islam_Study/🕌 خارطة طريق دراسة الإسلام من الصفر.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009736448,
+          "path": "Islam_Study/03 - القرآن الكريم/📖 خطة مراجعة القرآن المستمرة.md"
+        }
+      ],
+      "title": "امور الدين"
+    },
+    {
+      "type": "group",
+      "ctime": 1750009627218,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750009697892,
+          "path": "Fitness System/💪 01-Workouts/💥 Pull Day.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009703300,
+          "path": "Fitness System/💪 01-Workouts/🔥 Push Day.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009707176,
+          "path": "Fitness System/💪 01-Workouts/🦵 Legs Day.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009712488,
+          "path": "Fitness System/💪 01-Workouts/🧘 Active Recovery.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009720320,
+          "path": "Fitness System/📅 03-Weekly Schedule/🗓️ Weekly Training Schedule.md"
+        }
+      ],
+      "title": "fitness"
+    },
+    {
+      "type": "group",
+      "ctime": 1750009633172,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750009651380,
+          "path": "2 - Problem Solving/Self Training/🚀 Contests During My Trainee Journey.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009663772,
+          "path": "2 - Problem Solving/ACM/Level 2/Sheets/📊 Graph ACM Sheets.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1750009684792,
+          "path": "2 - Problem Solving/Self Training/🎯 Basmala's Contest Log.md"
+        }
+      ],
+      "title": "cp"
+    },
+    {
+      "type": "file",
+      "ctime": 1750144308005,
+      "path": "90-Days.md"
+    }
+  ]
+}
