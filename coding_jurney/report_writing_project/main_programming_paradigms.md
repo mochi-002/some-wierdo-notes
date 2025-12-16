@@ -11,7 +11,7 @@ tags:
 - [Introduction of Programming Paradigms](part_0_programming_paradigms.md)
 - [Procedural Prigramming](part_1_procedural_programming.md)
 - [Object-Oriented Programming](part_2_oop.md)
-- [Functional Programming](part_3_functional_programming)
+- [Functional Programming](part_3_functional_programming.md)
 - [Summary](part_4_summary.md)
 ## Important Details
 - **Programming Paradigm**: A methodology for problem-solving using specific tools and approaches.
@@ -108,5 +108,5 @@ CREATE TABLE Addr(PersonID int, LastName varchar(200), ...);
 - [Introduction of Programming Paradigms](part_0_programming_paradigms.md)
 - [Procedural Prigramming](part_1_procedural_programming.md)
 - [Object-Oriented Programming](part_2_oop.md)
-- [Functional Programming](part_3_functional_programming)
+- [Functional Programming](part_3_functional_programming.md)
 - [Summary](part_4_summary.md)
