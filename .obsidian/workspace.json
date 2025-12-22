@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,7 +55,8 @@
               "title": "04-Assignments"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -239,10 +241,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fced81ae1f9e7fcf",
+  "active": "9e5870b6209cf36e",
   "lastOpenFiles": [
-    "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
     "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
+    "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
     "web_jurney/01-Frontend/JavaScript/03-Practice.md",
     "web_jurney/00-Index/backend-study.md",
     "web_jurney/00-Index/frontend-study.md",
