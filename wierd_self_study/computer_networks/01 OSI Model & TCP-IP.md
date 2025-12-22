@@ -1,0 +1,42 @@
+## 1.1 The 7 Layers of OSI Model 
+<img src="Pasted image 20251206181826.png" width="600" style="display: block; margin: auto auto;">
+
+---
+## 1.2 TCP/IP Model (4 Layers)
+<img src="Pasted image 20251206183913.png" width="600" style="display: block; margin: 20px auto;">
+## 1.3 Comparison with OSI
+#### 1. Direct Layer Mapping & Key Functions
+> The TCP/IP Model is a pragmatic, implementation-focused architecture that defines the communication protocols used on the Internet. Its four layers correspond to the seven layers of the theoretical OSI Reference Model as follows:
+
+| TCP/IP Layer (4 Layers)               | Corresponding OSI Layers (7 Layers)         | Key Functions / Protocols                                                                                                                                                      |
+| ------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **4. Application**                    | 7. Application, 6. Presentation, 5. Session | Provides services to the user and handles data formatting, encryption, and session management. **Protocols:** HTTP, FTP, SMTP, DNS.                                            |
+| **3. Transport**                      | 4. Transport                                | Ensures reliable (TCP) or connectionless (UDP) end-to-end communication, segmentation, reassembly, and flow control. **Protocols:** TCP, UDP, SCTP.                            |
+| **2. Internet**                       | 3. Network                                  | Responsible for **logical addressing (IP)**, routing data packets (datagrams) across different networks, and path determination. **Protocols:** IP (IPv4, IPv6), ICMP, ARP.    |
+| **1. Network Link (Host-to-Network)** | 2. Data Link, 1. Physical                   | Manages physical transmission and data transfer on the local network (LAN/WAN). Handles hardware addressing (MAC) and signaling. **Protocols:** Ethernet, Wi-Fi (802.11), PPP. |
+#### 2. Core Differences and Focus
+
+While they describe similar functions, the models differ in their original purpose and structure.
+
+- **Model Goal:**
+    - **OSI:** A **conceptual reference model** used to standardize networking for developers. It is _protocol-independent_.
+    - **TCP/IP:** An **implementation model** based on the actual, working protocols of the Internet. It is _protocol-dependent_.
+- **Layer Count & Structure:**
+    - **OSI:** Uses **7 layers**, which offer clearer distinction and separation of services, particularly in the top three layers.
+    - **TCP/IP:** Uses **4 layers**, which is more efficient for real-world application but combines several functionalities into the Application and Network Link layers.
+- **Adoption:**
+    - **OSI:** Used for **teaching and theoretical discussion**.
+    - **TCP/IP:** The **foundation of the modern Internet**, making it the practical standard.
+---
+#### 3. Summary of Comparison
+
+| Feature          | OSI Model (7 Layers)            | TCP/IP Model (4 Layers)                 |
+| ---------------- | ------------------------------- | --------------------------------------- |
+| **Primary Use**  | Theoretical & Reference         | Implementation & Practice               |
+| **Development**  | Developed before protocols      | Developed with the protocols            |
+| **Flexibility**  | Less flexible; strict hierarchy | More flexible; designed for robustness  |
+| **Key Protocol** | Protocol-independent            | Defined by the IP and TCP/UDP protocols |
+
+---
+## 1.4 Encapsulation & De-encapsulation
+## 1.5 Protocols in Each Layer (Summary Table)
