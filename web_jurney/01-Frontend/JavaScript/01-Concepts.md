@@ -160,11 +160,12 @@ dv.el("div", barHtml);
 - [x] Window history ✅ 2025-12-22
 - [x] Scroll methods ✅ 2025-12-22
 - [x] Focus, print, stop ✅ 2025-12-22
-- [ ] Local Storage
-- [ ] Session Storage
-- [ ] BOM challenges
+- [x] Local Storage ✅ 2025-12-23
+- [x] Session Storage ✅ 2025-12-23
+- [x] BOM challenges ✅ 2025-12-23
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) 
+- [x] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) ✅ 2025-12-23
+- [x] [From 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) ✅ 2025-12-23
 ---
 ## 1️⃣4️⃣ Destructuring & Spread
 - [ ] Array destructuring

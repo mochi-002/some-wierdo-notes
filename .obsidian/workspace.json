@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,9 +54,32 @@
               "icon": "lucide-file",
               "title": "04-Assignments"
             }
+          },
+          {
+            "id": "993ed6d91d4befad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01-Concepts"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +132,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,16 +265,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e5870b6209cf36e",
+  "active": "fced81ae1f9e7fcf",
   "lastOpenFiles": [
-    "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
+    "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
     "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
+    "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
+    "From 111 to 114.md",
     "web_jurney/01-Frontend/JavaScript/03-Practice.md",
     "web_jurney/00-Index/backend-study.md",
     "web_jurney/00-Index/frontend-study.md",
     "web_jurney/00-Index/roadmap.md",
     "web_jurney/01-Frontend/JavaScript/02-Mistakes.md",
-    "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
     "web_jurney/01-Frontend/JavaScript/Notes",
     "template_folder/basic_study_temp.md",
     "wierd_self_study/math/study.md",
@@ -277,7 +302,6 @@
     "wierd_self_study/computer_networks/02 IP Basics.md",
     "wierd_self_study/computer_networks/03 TCP vs UDP.md",
     "wierd_self_study/computer_networks/05 HTTP Evolution.md",
-    "wierd_self_study/computer_networks/06 TLS Handshake.md",
     "wierd_self_study/computer_networks",
     "wierd_self_study/secrets_from_Technical_committee",
     "images/Pasted image 20251206190759.png",
