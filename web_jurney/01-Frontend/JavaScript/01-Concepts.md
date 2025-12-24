@@ -148,8 +148,6 @@ dv.el("div", barHtml);
 - [ ] DOM challenges
 
 ## 1️⃣3️⃣ BOM (Browser Object Model)
-#### Notes
- - [[13_BOM]]
 #### Topics
 - [x] What is BOM ✅ 2025-12-22
 - [x] Alert, confirm, prompt ✅ 2025-12-22
@@ -164,17 +162,21 @@ dv.el("div", barHtml);
 - [x] Session Storage ✅ 2025-12-23
 - [x] BOM challenges ✅ 2025-12-23
 #### Assignments
-- [x] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) ✅ 2025-12-23
-- [x] [From 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) ✅ 2025-12-23
+- [x] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) ✅ 2025-12-23 -> [[04-Assignments]]
+- [x] [From 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) ✅ 2025-12-23 -> [[04-Assignments]]
 ---
 ## 1️⃣4️⃣ Destructuring & Spread
-- [ ] Array destructuring
-- [ ] Object destructuring
-- [ ] Function parameters destructuring
-- [ ] Swap variables
-- [ ] Mixed destructuring
-- [ ] Spread syntax
+#### Topics
+- [x] Array destructuring ✅ 2025-12-24
+- [x] Object destructuring ✅ 2025-12-24
+- [x] Function parameters destructuring ✅ 2025-12-24
+- [x] Swap variables ✅ 2025-12-24
+- [x] Mixed destructuring ✅ 2025-12-24
+- [x] Spread syntax ✅ 2025-12-24
 
+#### Asignments
+- [x] [From 115 to 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/) ✅ 2025-12-24 -> [[04-Assignments]]
+---
 ## 1️⃣5️⃣ Advanced Data Structures
 - [ ] Set
 - [ ] WeakSet

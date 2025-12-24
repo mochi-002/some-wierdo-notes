@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
+                "file": "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "13_BOM"
+              "title": "14_Destructuring & Spread"
             }
           },
           {
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,7 +79,8 @@
               "title": "01-Concepts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,9 +265,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fced81ae1f9e7fcf",
+  "active": "9e5870b6209cf36e",
   "lastOpenFiles": [
     "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
+    "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
     "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
     "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
     "From 111 to 114.md",
@@ -301,7 +302,6 @@
     "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
     "wierd_self_study/computer_networks/02 IP Basics.md",
     "wierd_self_study/computer_networks/03 TCP vs UDP.md",
-    "wierd_self_study/computer_networks/05 HTTP Evolution.md",
     "wierd_self_study/computer_networks",
     "wierd_self_study/secrets_from_Technical_committee",
     "images/Pasted image 20251206190759.png",

@@ -374,8 +374,93 @@ saveToSession('category', categorySelect);
 ## Destructuring & Spread
 ### [115 => 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
 #### Assignment -> 01
+```JavaScript
+let myNumbers = [1, 2, 3, 4, 5];
+let [a, , , , e] = myNumbers
+console.log(a * e);
+```
 #### Assignment -> 02
+```JavaScript
+let mySkills = ["HTML", "CSS", "JavaScript", ["PHP", "Python", ["Django", "Laravel"]]];
+let [a, b, c, [d, e, [f, g]]] = mySkills
+console.log(`My Skills: ${a}, ${b}, ${c}, ${d}, ${e}, ${f}, ${g}`);
+```
 #### Assignment -> 03
+```JavaScript
+let arr1 = ["Ahmed", "Sameh", "Sayed"];
+let arr2 = ["Mohamed", "Gamal", "Amir"];
+let arr3 = ["Haytham", "Shady", "Mahmoud"];
+
+let [c, ,] = arr1;
+let [, ,] = arr2
+let [, a, b] = arr3
+
+console.log(`My Best Friends: ${a}, ${b}, ${c}`);
+```
 #### Assignment -> 04
+```JavaScript
+const member = {
+age: 30,
+working: false,
+country: "Egypt",
+hobbies: ["Reading", "Swimming", "Programming"],
+};
+let { age: a, working: w, country: c, hobbies: [h1, , h3] } = member
+console.log(`My Age Is ${a} And Iam ${w ? "" : "Not"} Working`);
+console.log(`I Live in ${c}`);
+console.log(`My Hobbies: ${h1} And ${h3}`);
+```
 #### Assignment -> 05
+```javascript
+const game = {
+	title: "YS",
+	developer: "Falcom",
+	releases: {
+		"Oath In Felghana": ["USA", "Japan"],
+		"Ark Of Napishtim": {
+			  US: "20 USD",
+			  JAP: "10 USD",
+		},
+	    Origin: "30 USD",
+	},
+};
+
+let {
+	title: t,
+	developer: d,
+	releases: {
+		["Oath In Felghana"]: [u, j],
+		["Ark Of Napishtim"]: { US: u_price, JAP: j_price },
+		Origin: or
+	}
+} = game
+const [o, a] = ["Oath In Felghana", "Ark Of Napishtim"]
+
+console.log(`My Favourite Games Style Is ${t} Style`);
+console.log(`And I Love ${d} Games`);
+console.log(`My Best Release Is ${o} It Released in ${u} & ${j}`);
+console.log(`Although I Love ${a}`);
+console.log(`${a} Price in USA Is ${u_price}`);
+console.log(`${a} Price in Japan Is ${j_price}`);
+console.log(`Origin Price Is ${or}`);
+```
 #### Assignment -> 06
+```JavaScript
+let chosen = 1;
+
+let myFriends = [
+	{ title: "Osama", age: 39, available: true, skills: ["HTML", "CSS"] },
+	{ title: "Ahmed", age: 25, available: false, skills: ["Python", "Django"] },
+	{ title: "Sayed", age: 33, available: true, skills: ["PHP", "Laravel"] },
+];
+
+for (chosen = 1; chosen <= myFriends.length; chosen++) {
+	let {
+		title: t,
+		age: a,
+		available: v,
+		skills: [, sTwo]
+	} = myFriends[chosen - 1];
+	console.log(`${t}\n${a}\n${v ? "Available" : "Not Available"}\n${sTwo}`);
+}
+```
