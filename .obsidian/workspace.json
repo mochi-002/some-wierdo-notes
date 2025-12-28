@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/finals/OOP_2023_Final.md",
+                "file": "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OOP_2023_Final"
+              "title": "01.3 HTTP & SMTP"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -217,18 +218,25 @@
   },
   "active": "f6b5c21b5d1cc02d",
   "lastOpenFiles": [
-    "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
+    "Pasted image 20251229011754.png",
+    "Pasted image 20251229010937.png",
+    "Pasted image 20251229010349.png",
+    "Pasted image 20251229005851.png",
+    "Pasted image 20251229005351.png",
+    "Pasted image 20251229005334.png",
+    "Pasted image 20251229005333.png",
+    "Pasted image 20251229005327.png",
+    "Pasted image 20251229000543.png",
+    "Pasted image 20251229000402.png",
+    "Pasted image 20251228235146.png",
     "wierd_self_study/computer_networks/01.2 TCP vs UDP.md",
     "wierd_self_study/computer_networks/01.1 Application Layer.md",
+    "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
     "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
-    "wierd_self_study/computer_networks/study.md",
-    "images/Pasted image 20251228221552.png",
-    "images/Pasted image 20251228210130.png",
-    "Pasted image 20251228210107.png",
-    "Pasted image 20251228215943.png",
-    "Uni/finals/OOP_2025_Final.md",
-    "Pasted image 20251228215948.png",
     "wierd_self_study/computer_networks/02 IP Basics.md",
+    "Uni/finals/OOP_2023_Final.md",
+    "wierd_self_study/computer_networks/study.md",
+    "Uni/finals/OOP_2025_Final.md",
     "Uni/finals/final_preparing.md",
     "problem_solving/mentor_training_26.md",
     "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
@@ -248,10 +256,7 @@
     "From 111 to 114.md",
     "web_jurney/01-Frontend/JavaScript/03-Practice.md",
     "web_jurney/00-Index/roadmap.md",
-    "web_jurney/01-Frontend/JavaScript/02-Mistakes.md",
     "web_jurney/01-Frontend/JavaScript/Notes",
-    "template_folder/basic_study_temp.md",
-    "Pasted image 20251222010558.png",
     "web_jurney/00-Index",
     "web_jurney/02-Backend/NodeJS",
     "web_jurney/01-Frontend/JavaScript",
@@ -259,10 +264,6 @@
     "web_jurney/03-Fullstack",
     "web_jurney/02-Backend",
     "web_jurney/01-Frontend",
-    "images/Pasted image 20251206190759.png",
-    "images/Pasted image 20251206183913.png",
-    "images/Pasted image 20251206170711.png",
-    "images/Pasted image 20251206181826.png",
     "coding_jurney/topics.canvas"
   ]
 }
