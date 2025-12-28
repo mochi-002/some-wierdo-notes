@@ -4,6 +4,7 @@
 - HTML / HTML5
 - CSS / CSS3
 - JavaScript
+- Tailwind CSS
 
 ---
 ## 🎥 Playlists & Courses

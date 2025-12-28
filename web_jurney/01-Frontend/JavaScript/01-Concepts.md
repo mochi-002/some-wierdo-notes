@@ -178,27 +178,31 @@ dv.el("div", barHtml);
 - [x] [From 115 to 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/) ✅ 2025-12-24 -> [[04-Assignments]]
 ---
 ## 1️⃣5️⃣ Advanced Data Structures
-- [ ] Set
-- [ ] WeakSet
-- [ ] Map
-- [ ] Map methods
-- [ ] WeakMap
-- [ ] Array.from()
-- [ ] copyWithin()
-- [ ] some()
-- [ ] every()
-- [ ] Data structure challenges
+- [x] Set ✅ 2025-12-25
+- [x] WeakSet ✅ 2025-12-25
+- [x] Map ✅ 2025-12-25
+- [x] Map methods ✅ 2025-12-26
+- [x] WeakMap ✅ 2025-12-26
+- [x] Array.from() ✅ 2025-12-26
+- [x] copyWithin() ✅ 2025-12-26
+- [x] some() ✅ 2025-12-26
+- [x] every() ✅ 2025-12-26
+- [x] Data structure challenges ✅ 2025-12-26
+#### Asignments
+- [x] [From 123 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/) ✅ 2025-12-24 -> [[04-Assignments]] ✅ 2025-12-26
 
 ## 1️⃣6️⃣ Regular Expressions (Regex)
-- [ ] Regex basics
-- [ ] Modifiers
-- [ ] Ranges
-- [ ] Character classes
-- [ ] Quantifiers
-- [ ] Replace patterns
-- [ ] Form validation
-- [ ] Regex challenges
-
+- [x] Regex basics ✅ 2025-12-28
+- [x] Modifiers ✅ 2025-12-28
+- [x] Ranges ✅ 2025-12-28
+- [x] Character classes ✅ 2025-12-28
+- [x] Quantifiers ✅ 2025-12-28
+- [x] Replace patterns ✅ 2025-12-28
+- [x] Form validation ✅ 2025-12-28
+- [x] Regex challenges ✅ 2025-12-28
+#### Assignments
+- [ ] [From 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)  -> [[04-Assignments]]
+ ---
 ## 1️⃣7️⃣ Object-Oriented Programming (OOP)
 - [ ] OOP principles
 - [ ] Constructor functions
@@ -209,7 +213,9 @@ dv.el("div", barHtml);
 - [ ] Prototypes
 - [ ] Prototype chain
 - [ ] Object descriptors
-
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) -> [[04-Assignments]]
+---
 ## 1️⃣8️⃣ Date, Time & Generators
 - [ ] Date & time basics
 - [ ] Get date & time
@@ -219,11 +225,16 @@ dv.el("div", barHtml);
 - [ ] Generator functions
 - [ ] Delegate generators
 - [ ] Infinite generators
-
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) -> [[04-Assignments]]
+---
 ## 1️⃣9️⃣ Modules
 - [ ] ES Modules
 - [ ] Import & export
 - [ ] Named vs default exports
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+---
 
 ## 2️⃣0️⃣ JSON & APIs
 - [ ] JSON basics
@@ -232,6 +243,9 @@ dv.el("div", barHtml);
 - [ ] JSON.parse()
 - [ ] JSON.stringify()
 - [ ] API concept
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+---
 
 ## 2️⃣1️⃣ Asynchronous JavaScript
 - [ ] Sync vs Async
@@ -243,6 +257,9 @@ dv.el("div", barHtml);
 - [ ] XHR
 - [ ] Fetch API
 - [ ] Looping over API data
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+---
 
 ## 2️⃣2️⃣ Promises & Async/Await
 - [ ] Callback hell
@@ -255,3 +272,6 @@ dv.el("div", barHtml);
 - [ ] async
 - [ ] await
 - [ ] try / catch / finally
+#### Assignments
+- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+---

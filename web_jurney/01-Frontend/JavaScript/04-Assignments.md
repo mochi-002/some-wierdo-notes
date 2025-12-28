@@ -464,3 +464,124 @@ for (chosen = 1; chosen <= myFriends.length; chosen++) {
 	console.log(`${t}\n${a}\n${v ? "Available" : "Not Available"}\n${sTwo}`);
 }
 ```
+## Maps & Sets
+### [123 => 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
+#### Assignment -> 01
+```JavaScript
+let setOfNumbers = new Set([10]);
+setOfNumbers.add(20).add(setOfNumbers.size);
+console.log(setOfNumbers)
+// make the set into array then access the last element
+console.log([...setOfNumbers][setOfNumbers.size - 1])
+```
+#### Assignment -> 02
+```JavaScript
+let myFriends = ["Osama", "Ahmed", "Sayed", "Sayed", "Mahmoud", "Osama"];
+console.log([...new Set(myFriends)].sort())
+```
+#### Assignment -> 03
+```JavaScript
+let myInfo = {
+	username: "Osama",
+	role: "Admin",
+	country: "Egypt",
+};
+  
+let myMap = new Map(
+	Object.entries(myInfo).map(([key, value]) => [String(key), value])
+);
+console.log(myMap);
+console.log(myMap.size);
+console.log(myMap.has("role"));
+```
+#### Assignment -> 04
+```JavaScript
+let theNumber = 100020003000;
+
+let res = Number(
+	[...new Set(String(theNumber))]
+		.filter((a) => a !== "0")
+		.map((a) => Number(a))
+		.join("")
+);
+
+console.log(res);
+```
+#### Assignment -> 05
+```JavaScript
+let theName = "Elzero";
+console.log([...theName]);
+console.log(theName.split(''))
+console.log(Array.from(theName));
+console.log([...new Set(theName)]);
+console.log([...new Array(...theName)]);
+```
+#### Assignment -> 06
+```JavaScript
+```
+#### Assignment -> 07
+```JavaScript
+let numsOne = [1, 2, 3];
+let numsTwo = [4, 5, 6];
+
+console.log([...numsOne, ...numsTwo])
+
+console.log(numsOne.concat(numsTwo));
+
+let mySet = new Set(numsOne)
+	numsTwo.forEach(element => {
+	mySet.add(element)
+});
+console.log([...mySet])
+```
+#### Assignment -> 08
+```JavaScript
+console.log(210);
+```
+---
+## Regular Expression
+### [134 => 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
+#### Assignment -> 01
+```JavaScript
+let reg = /\d{4}:\w{2}\d:(\d{4}:*){6}/ig
+```
+#### Assignment -> 02
+```JavaScript
+let reg = /\bOs\d*O\b/g;
+```
+#### Assignment -> 03
+```JavaScript
+const phoneRe = /\+\(\d{3}\)-\d{3}\s\(\d{4}\)/ig;
+```
+#### Assignment -> 04
+```JavaScript
+let re = /https?:\/\/(?:[-\w]+\.)?([-\w]+)\.\w+(?:\.\w+)?\/?.*/i;
+/*
+	* https? -> it can has s after http or not
+	* :\/\/ -> contains ://
+	* (?:[-\w]+\.)? -> may have subdomain or not (www. mail.)
+	* ([-\w]+) -> has one or more characters (domain name)
+	* /. -> has a dot
+	* \w+ -> has one or more character (com org net)
+	* (?:\.\w+)? -> may have another --> (.eg .uk)
+	* /\/? -> may have \ after the domain
+	* .* -> doesn't contain or contains . (one or more)
+	* /i -> case-insensitive
+*/
+```
+#### Assignment -> 05
+```JavaScript
+let re = /\d+\s?\-?\s?\/?\d+\s?\-?\s?\/?\d+/;
+```
+#### Assignment -> 06
+```JavaScript
+let re = /(https?:\/\/)?([-\w]+\.)?([-\w]+)\.\w+(?:\.\w+)?\/?.*/gi;
+```
+---
+## OOP
+### [147 => 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
+#### Assignment -> 06
+#### Assignment -> 02
+#### Assignment -> 03
+#### Assignment -> 04
+#### Assignment -> 05

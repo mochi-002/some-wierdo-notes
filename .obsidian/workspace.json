@@ -4,60 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bb66a439adc82f84",
+        "id": "4219cc0240e7682b",
         "type": "tabs",
         "children": [
           {
-            "id": "fced81ae1f9e7fcf",
+            "id": "2d4f5cb36e397bab",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "14_Destructuring & Spread"
-            }
-          },
-          {
-            "id": "9e5870b6209cf36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04-Assignments"
-            }
-          },
-          {
-            "id": "993ed6d91d4befad",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -75,8 +28,57 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01-Concepts"
+            }
+          },
+          {
+            "id": "f6b5c21b5d1cc02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web_jurney/01-Frontend/JavaScript/Notes/16_Regex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "16_Regex"
+            }
+          },
+          {
+            "id": "710dbbd21f674d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04-Assignments"
             }
           }
         ],
@@ -265,21 +267,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e5870b6209cf36e",
+  "active": "f6b5c21b5d1cc02d",
   "lastOpenFiles": [
-    "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
-    "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
     "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
+    "web_jurney/01-Frontend/JavaScript/Notes/16_Regex.md",
+    "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
+    "web_jurney/01-Frontend/JavaScript/Notes/17_OOP.md",
+    "web_jurney/01-Frontend/JavaScript/Notes/15_Maps_and_Sets.md",
+    "Untitled.md",
+    "wierd_self_study/math/study.md",
+    "web_jurney/02-Backend/NodeJS/01_Concepts.md",
+    "web_jurney/00-Index/frontend-study.md",
+    "web_jurney/00-Index/backend-study.md",
+    "web_jurney/01-Frontend/CSS",
+    "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
     "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
     "From 111 to 114.md",
     "web_jurney/01-Frontend/JavaScript/03-Practice.md",
-    "web_jurney/00-Index/backend-study.md",
-    "web_jurney/00-Index/frontend-study.md",
     "web_jurney/00-Index/roadmap.md",
     "web_jurney/01-Frontend/JavaScript/02-Mistakes.md",
     "web_jurney/01-Frontend/JavaScript/Notes",
     "template_folder/basic_study_temp.md",
-    "wierd_self_study/math/study.md",
     "Pasted image 20251222010558.png",
     "Uni/finals/final_preparing.md",
     "web_jurney/00-Index",
@@ -297,13 +305,7 @@
     "wierd_self_study/computer_networks/11 API Communication Styles.md",
     "wierd_self_study/computer_networks/10 Caching Strategies.md",
     "wierd_self_study/computer_networks/09 Proxy vs Reverse Proxy.md",
-    "wierd_self_study/computer_networks/08 Load Balancing.md",
-    "wierd_self_study/computer_networks/07 WebSockets.md",
-    "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
-    "wierd_self_study/computer_networks/02 IP Basics.md",
-    "wierd_self_study/computer_networks/03 TCP vs UDP.md",
     "wierd_self_study/computer_networks",
-    "wierd_self_study/secrets_from_Technical_committee",
     "images/Pasted image 20251206190759.png",
     "images/Pasted image 20251206183913.png",
     "images/Pasted image 20251206170711.png",
