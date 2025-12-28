@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6b5c21b5d1cc02d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20251206181826.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251206181826"
-            }
-          },
-          {
             "id": "7536085fe6f4330e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wierd_self_study/computer_networks/01.1 Application Layer.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -40,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01.1 Application Layer"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -231,8 +217,8 @@
   },
   "active": "7536085fe6f4330e",
   "lastOpenFiles": [
-    "wierd_self_study/computer_networks/01.2 TCP vs UDP.md",
     "wierd_self_study/computer_networks/01.1 Application Layer.md",
+    "wierd_self_study/computer_networks/01.2 TCP vs UDP.md",
     "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
     "wierd_self_study/computer_networks/12 Advanced Networking Topics.md",
     "wierd_self_study/computer_networks/11 API Communication Styles.md",
