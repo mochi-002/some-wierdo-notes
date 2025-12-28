@@ -37,12 +37,24 @@
             "id": "f6b5c21b5d1cc02d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251228210130.png"
+                "file": "wierd_self_study/computer_networks/01.1 Application Layer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251228210130"
+              "icon": "lucide-file",
+              "title": "01.1 Application Layer"
             }
           },
           {
@@ -127,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -254,14 +267,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1565be13537b7310",
+  "active": "f6b5c21b5d1cc02d",
   "lastOpenFiles": [
+    "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
+    "wierd_self_study/computer_networks/01.1 Application Layer.md",
+    "Pasted image 20251228210107.png",
     "images/Pasted image 20251228210130.png",
     "Pasted image 20251228215943.png",
-    "Pasted image 20251228210107.png",
     "Uni/finals/OOP_2025_Final.md",
     "Pasted image 20251228215948.png",
-    "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
     "wierd_self_study/computer_networks/03 TCP vs UDP.md",
     "wierd_self_study/computer_networks/02 IP Basics.md",
     "Uni/finals/final_preparing.md",
