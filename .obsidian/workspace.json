@@ -11,10 +11,22 @@
             "id": "f6b5c21b5d1cc02d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20251206181826.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251206181826"
+            }
+          },
+          {
+            "id": "7536085fe6f4330e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
-                "mode": "preview",
+                "file": "wierd_self_study/computer_networks/12 Advanced Networking Topics.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01.3 HTTP & SMTP"
+              "title": "12 Advanced Networking Topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -216,24 +228,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f6b5c21b5d1cc02d",
+  "active": "7536085fe6f4330e",
   "lastOpenFiles": [
-    "images/Pasted image 20251228232907.png",
-    "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
-    "images/Pasted image 20251229011754.png",
-    "images/Pasted image 20251229010937.png",
-    "images/Pasted image 20251229010349.png",
-    "images/Pasted image 20251229005851.png",
-    "images/Pasted image 20251229005351.png",
-    "images/Pasted image 20251229005334.png",
-    "images/Pasted image 20251229005333.png",
-    "images/Pasted image 20251229005327.png",
-    "images/Pasted image 20251229000543.png",
-    "images/Pasted image 20251229000402.png",
-    "wierd_self_study/computer_networks/01.2 TCP vs UDP.md",
-    "wierd_self_study/computer_networks/01.1 Application Layer.md",
-    "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
+    "wierd_self_study/computer_networks/11 API Communication Styles.md",
+    "wierd_self_study/computer_networks/09 Proxy vs Reverse Proxy.md",
+    "wierd_self_study/computer_networks/08 Load Balancing.md",
+    "wierd_self_study/computer_networks/07 WebSockets.md",
+    "wierd_self_study/computer_networks/06 TLS Handshake.md",
+    "wierd_self_study/computer_networks/05 HTTP Evolution.md",
+    "wierd_self_study/computer_networks/04 DNS Flow.md",
     "wierd_self_study/computer_networks/02 IP Basics.md",
+    "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
+    "images/Pasted image 20251206181826.png",
+    "images/Pasted image 20251206183913.png",
+    "images/Pasted image 20251206190759.png",
+    "images/Pasted image 20251206181757.png",
+    "images/Pasted image 20251206181734.png",
+    "images/Pasted image 20251206181731.png",
+    "images/Pasted image 20251206170711.png",
+    "images/Pasted image 20251206164654.png",
+    "images/Pasted image 20251206164637.png",
+    "images/Pasted image 20251206164504.png",
+    "wierd_self_study/computer_networks/01.1 Application Layer.md",
+    "wierd_self_study/computer_networks/01.2 TCP vs UDP.md",
+    "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
     "Uni/finals/OOP_2023_Final.md",
     "wierd_self_study/computer_networks/study.md",
     "Uni/finals/OOP_2025_Final.md",
@@ -249,13 +267,7 @@
     "wierd_self_study/math/study.md",
     "web_jurney/02-Backend/NodeJS/01_Concepts.md",
     "web_jurney/00-Index/frontend-study.md",
-    "web_jurney/00-Index/backend-study.md",
     "web_jurney/01-Frontend/CSS",
-    "web_jurney/01-Frontend/JavaScript/Notes/14_Destructuring & Spread.md",
-    "web_jurney/01-Frontend/JavaScript/Notes/13_BOM.md",
-    "From 111 to 114.md",
-    "web_jurney/01-Frontend/JavaScript/03-Practice.md",
-    "web_jurney/00-Index/roadmap.md",
     "web_jurney/01-Frontend/JavaScript/Notes",
     "web_jurney/00-Index",
     "web_jurney/02-Backend/NodeJS",

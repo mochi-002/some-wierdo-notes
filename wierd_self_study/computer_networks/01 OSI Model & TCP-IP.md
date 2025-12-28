@@ -1,6 +1,6 @@
 ## 1.1 The 7 Layers of OSI Model 
 > The **OSI (Open Systems Interconnection)** model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
-<img src="Pasted image 20251206181826.png"  align="right" width="430" style="margin: 50px 0 20px 30px;">
+<img src="../../images/Pasted image 20251206181826.png"  align="right" width="430" style="margin: 50px 0 20px 30px;">
 ### OSI Layers (bottom → top) 
 1. **Physical**
 2. **Data Link**
@@ -13,7 +13,7 @@
 ---
 ## 1.2 TCP/IP Model (4 Layers)
 > The **TCP/IP model** (also called Internet protocol suite) is the practical model actually used on the Internet.
-<img src="Pasted image 20251206183913.png" align="right" width="430" hight="200px" style="margin: 50px 0 20px 30px;">
+<img src="../../images/Pasted image 20251206183913.png" align="right" width="430" hight="200px" style="margin: 50px 0 20px 30px;">
 ### TCP/IP Layers (bottom → top)
 1. **Network Link** (Host-to-Network)
 2. **Internet** 
