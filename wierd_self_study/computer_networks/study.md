@@ -83,7 +83,7 @@
 
 - [[01 OSI Model & TCP-IP]]
 - [[02 IP Basics]]
-- [[03 TCP vs UDP]]
+- [[01.2 TCP vs UDP]]
 - [[04 DNS Flow]]
 - [[05 HTTP Evolution]]    
 - [[06 TLS Handshake]]

@@ -32,9 +32,9 @@ Compilation erroe
 ```text
 4
 ```
-### 4 -> (d)
+### 4 -> (a)
 ```text
-None of them
+ONE
 ```
 ### 5 -> (d)
 ```text
