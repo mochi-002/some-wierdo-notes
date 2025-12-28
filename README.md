@@ -1,5 +1,5 @@
 # some-wierdo-notes
-## 📖 Viewing Notes
+### 📖 Viewing Notes
 
 For the best reading experience with proper formatting, internal links, and enhanced navigation, it is **highly recommended** to view these notes using [Obsidian](https://obsidian.md/).
 
