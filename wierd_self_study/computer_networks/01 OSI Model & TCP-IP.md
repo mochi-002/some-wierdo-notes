@@ -1,38 +1,49 @@
-## 1.1 The 7 Layers of OSI Model 
+## 1.1 The 7 Layers of OSI Model
+
 > The **OSI (Open Systems Interconnection)** model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
-<img src="../../images/Pasted image 20251206181826.png"  align="right" width="430" style="margin: 50px 0 20px 30px;">
-### OSI Layers (bottom → top) 
+> 
+> <img src="../../images/Pasted image 20251206181826.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
+
+### OSI Layers (bottom → top)
+
 1. **Physical**
 2. **Data Link**
-3. **Network** 
+3. **Network**
 4. **Transport**
 5. **Session**
 6. **Presentation**
 7. **Application**
 
 ---
+
 ## 1.2 TCP/IP Model (4 Layers)
+
 > The **TCP/IP model** (also called Internet protocol suite) is the practical model actually used on the Internet.
-<img src="../../images/Pasted image 20251206183913.png" align="right" width="430" hight="200px" style="margin: 50px 0 20px 30px;">
+> 
+> <img src="../../images/Pasted image 20251206183913.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
+
 ### TCP/IP Layers (bottom → top)
+
 1. **Network Link** (Host-to-Network)
-2. **Internet** 
-3. **Transport** 
+2. **Internet**
+3. **Transport**
 4. **Application**
 
-
-
 ---
+
 ## 1.3 Comparison with OSI
+
 #### 1. Direct Layer Mapping & Key Functions
+
 > The TCP/IP Model is a pragmatic, implementation-focused architecture that defines the communication protocols used on the Internet. Its four layers correspond to the seven layers of the theoretical OSI Reference Model as follows:
 
-| TCP/IP Layer (4 Layers)               | Corresponding OSI Layers (7 Layers)         | Key Functions / Protocols                                                                                                                                                      |
-| ------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **4. Application**                    | 7. Application, 6. Presentation, 5. Session | Provides services to the user and handles data formatting, encryption, and session management. **Protocols:** HTTP, FTP, SMTP, DNS.                                            |
-| **3. Transport**                      | 4. Transport                                | Ensures reliable (TCP) or connectionless (UDP) end-to-end communication, segmentation, reassembly, and flow control. **Protocols:** TCP, UDP, SCTP.                            |
-| **2. Internet**                       | 3. Network                                  | Responsible for **logical addressing (IP)**, routing data packets (datagrams) across different networks, and path determination. **Protocols:** IP (IPv4, IPv6), ICMP, ARP.    |
-| **1. Network Link (Host-to-Network)** | 2. Data Link, 1. Physical                   | Manages physical transmission and data transfer on the local network (LAN/WAN). Handles hardware addressing (MAC) and signaling. **Protocols:** Ethernet, Wi-Fi (802.11), PPP. |
+|TCP/IP Layer (4 Layers)|Corresponding OSI Layers (7 Layers)|Key Functions / Protocols|
+|---|---|---|
+|**4. Application**|7. Application, 6. Presentation, 5. Session|Provides services to the user and handles data formatting, encryption, and session management. **Protocols:** HTTP, FTP, SMTP, DNS.|
+|**3. Transport**|4. Transport|Ensures reliable (TCP) or connectionless (UDP) end-to-end communication, segmentation, reassembly, and flow control. **Protocols:** TCP, UDP, SCTP.|
+|**2. Internet**|3. Network|Responsible for **logical addressing (IP)**, routing data packets (datagrams) across different networks, and path determination. **Protocols:** IP (IPv4, IPv6), ICMP, ARP.|
+|**1. Network Link (Host-to-Network)**|2. Data Link, 1. Physical|Manages physical transmission and data transfer on the local network (LAN/WAN). Handles hardware addressing (MAC) and signaling. **Protocols:** Ethernet, Wi-Fi (802.11), PPP.|
+
 #### 2. Core Differences and Focus
 
 While they describe similar functions, the models differ in their original purpose and structure.
@@ -46,16 +57,20 @@ While they describe similar functions, the models differ in their original purpo
 - **Adoption:**
     - **OSI:** Used for **teaching and theoretical discussion**.
     - **TCP/IP:** The **foundation of the modern Internet**, making it the practical standard.
+
 ---
+
 #### 3. Summary of Comparison
 
-| Feature          | OSI Model (7 Layers)            | TCP/IP Model (4 Layers)                 |
-| ---------------- | ------------------------------- | --------------------------------------- |
-| **Primary Use**  | Theoretical & Reference         | Implementation & Practice               |
-| **Development**  | Developed before protocols      | Developed with the protocols            |
-| **Flexibility**  | Less flexible; strict hierarchy | More flexible; designed for robustness  |
-| **Key Protocol** | Protocol-independent            | Defined by the IP and TCP/UDP protocols |
+|Feature|OSI Model (7 Layers)|TCP/IP Model (4 Layers)|
+|---|---|---|
+|**Primary Use**|Theoretical & Reference|Implementation & Practice|
+|**Development**|Developed before protocols|Developed with the protocols|
+|**Flexibility**|Less flexible; strict hierarchy|More flexible; designed for robustness|
+|**Key Protocol**|Protocol-independent|Defined by the IP and TCP/UDP protocols|
 
 ---
+
 ## 1. Encapsulation & De-encapsulation
+
 ## 1. Protocols in Each Layer (Summary Table)
