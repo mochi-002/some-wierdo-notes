@@ -43,7 +43,18 @@ Exception is caught
 ---
 ## Question 3
 ```java
+// fix no.1
 import java.util.ArrayList;
+
+// fix no.2
+@Override
+public boolean equals(Object obj) {
+	Student otherStudent = (student) obj;
+	if(this.id == otherStudent.id) { 
+		return true;
+	}
+	return false;
+}
 ```
 ---
 ## Question 4

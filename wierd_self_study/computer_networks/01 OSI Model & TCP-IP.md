@@ -1,9 +1,28 @@
 ## 1.1 The 7 Layers of OSI Model 
-<img src="Pasted image 20251206181826.png" width="600" style="display: block; margin: auto auto;">
+> The **OSI (Open Systems Interconnection)** model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
+<img src="Pasted image 20251206181826.png"  align="right" width="430" style="margin: 50px 0 20px 30px;">
+### OSI Layers (bottom → top) 
+1. **Physical**
+2. **Data Link**
+3. **Network** 
+4. **Transport**
+5. **Session**
+6. **Presentation**
+7. **Application**
 
 ---
 ## 1.2 TCP/IP Model (4 Layers)
-<img src="Pasted image 20251206183913.png" width="600" style="display: block; margin: 20px auto;">
+> The **TCP/IP model** (also called Internet protocol suite) is the practical model actually used on the Internet.
+<img src="Pasted image 20251206183913.png" align="right" width="430" hight="200px" style="margin: 50px 0 20px 30px;">
+### TCP/IP Layers (bottom → top)
+1. **Network Link** (Host-to-Network)
+2. **Internet** 
+3. **Transport** 
+4. **Application**
+
+
+
+---
 ## 1.3 Comparison with OSI
 #### 1. Direct Layer Mapping & Key Functions
 > The TCP/IP Model is a pragmatic, implementation-focused architecture that defines the communication protocols used on the Internet. Its four layers correspond to the seven layers of the theoretical OSI Reference Model as follows:
@@ -38,5 +57,65 @@ While they describe similar functions, the models differ in their original purpo
 | **Key Protocol** | Protocol-independent            | Defined by the IP and TCP/UDP protocols |
 
 ---
-## 1.4 Encapsulation & De-encapsulation
-## 1.5 Protocols in Each Layer (Summary Table)
+## 1.4 Application Layer – Detailed View
+
+### Application Layer Programs
+>Run exclusively on **end systems** (hosts/clients/servers).  
+>Network-core devices (routers, switches) **do not** run user applications.
+
+Examples:
+- Web browsing
+- Email
+- File sharing
+- Text messaging
+- Multi-user network games
+- Streaming stored video (YouTube, Netflix…)
+
+### Common Application Layer Protocols
+- **HTTP / HTTPS** – Web browsing
+- **FTP** – File transfer
+- **SMTP** – Sending email
+- **IMAP / POP3** – Receiving email
+- **DNS** – Domain name resolution
+
+### Two Main Application Architectures
+
+#### 1. Client-Server Architecture
+
+| Feature                     | Server                              | Client                              |
+|-----------------------------|-------------------------------------|-------------------------------------|
+| Always-on                   | Yes                                 | No (intermittent)                   |
+| IP address                  | Permanent / static                  | Usually dynamic                     |
+| Scalability                 | Server must scale                   | Clients don’t scale the system      |
+| Data management             | Centralized                         | Distributed                         |
+| Communication pattern       | Clients ↔ Server                    | Clients **do not** talk directly    |
+| Examples                    | Web servers, YouTube, email servers | Browsers, email clients, apps       |
+
+#### 2. Peer-to-Peer (P2P) Architecture
+
+| Feature                        | Description                                           |
+|--------------------------------|-------------------------------------------------------|
+| Node role                      | Every node is both **client** and **server**          |
+| Communication                  | **Direct** peer-to-peer communication                 |
+| Always online                  | No – nodes connect intermittently                     |
+| IP address                     | Usually dynamic & frequently changing                 |
+| Scalability                    | Self-scalable (more users = more resources)           |
+| Data management                | Fully distributed                                     |
+| Complexity                     | Higher (peer discovery, security, churn management)  |
+| Examples                       | BitTorrent, early Skype, some blockchain networks     |
+
+## Quick Architecture Comparison Summary
+
+| Feature                  | Client-Server               | Peer-to-Peer (P2P)              |
+|--------------------------|-----------------------------|----------------------------------|
+| Always-on server         | Yes                         | No                               |
+| Centralized control      | Yes                         | No                               |
+| Direct peer communication| No                          | Yes                              |
+| Self-scalability         | Limited                     | Excellent                        |
+| Management complexity    | Lower                       | Higher                           |
+| Typical real-world use   | Web, Email, Streaming       | File sharing, decentralized apps |
+
+---
+## 1. Encapsulation & De-encapsulation
+## 1. Protocols in Each Layer (Summary Table)
+![[Pasted image 20251228210130.png]]
