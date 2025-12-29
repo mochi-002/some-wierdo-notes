@@ -214,7 +214,7 @@ dv.el("div", barHtml);
 - [x] Prototype chain ✅ 2025-12-29
 - [x] Object descriptors ✅ 2025-12-29
 #### Assignments
-- [ ] [From 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) -> [[04-Assignments]]
+- [x] [From 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) -> [[04-Assignments]] ✅ 2025-12-29
 ---
 ## 1️⃣8️⃣ Date, Time & Generators
 - [ ] Date & time basics

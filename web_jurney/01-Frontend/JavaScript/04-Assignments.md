@@ -1,3 +1,4 @@
+# Weekly Assignments
 ## BOM
 ### [102 => 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
 #### Assignment -> 01
@@ -580,8 +581,168 @@ let re = /(https?:\/\/)?([-\w]+\.)?([-\w]+)\.\w+(?:\.\w+)?\/?.*/gi;
 ---
 ## OOP
 ### [147 => 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
-#### Assignment -> 06
-#### Assignment -> 02
-#### Assignment -> 03
-#### Assignment -> 04
-#### Assignment -> 05
+#### Assignment 01
+```js
+class Car {
+  constructor(name, model, price) {
+    this.name  = name;
+    this.model = model;
+    this.price = price;
+  }
+
+  run() {
+    console.log("Car Is Running Now");
+  }
+
+  stop() {
+    console.log("Car Is Stopped");
+  }
+}
+
+const car1 = new Car("MG", 2022, 420000);
+const car2 = new Car("MG", 2022, 420000);
+const car3 = new Car("MG", 2022, 420000);
+
+console.log(
+  `Car One Name Is ${car1.name} And Model Is ${car1.model} And Price Is ${car1.price}`
+);
+```
+
+#### Assignment 02
+```js
+class Tablet extends Phone {
+  constructor(name, serial, price, size) {
+    super(name, serial, price);
+    this.size = size || "Unknown";
+  }
+
+  fullDetails() {
+    return `${this.name} -> serial is ${this.serial}, price is ${this.price} and size is ${this.size}`;
+  }
+}
+```
+
+#### Assignment 03
+```js
+class User {
+  #card;
+
+  constructor(username, card) {
+    this.username = username;
+    this.#card = this.#formatCard(card);
+    this.showData = `Hello ${this.username} Your Credit Card Number Is ${this.getCard()}`;
+  }
+
+  #formatCard(card) {
+    return String(card)
+      .replace(/\D/g, "")
+      .match(/.{1,4}/g)
+      ?.join("-") || "";
+  }
+
+  getCard() {
+    return this.#card;
+  }
+}
+```
+
+#### Assignment 04
+```js
+String.prototype.addLove = function() {
+  return `I Love ${this} Web School`;
+};
+```
+
+#### Assignment 05 
+```js
+Object.defineProperties(myObj, {
+  score: {
+    value: 1000,
+    writable: false,   
+    enumerable: true,
+    configurable: false
+  },
+  
+  id: {
+    enumerable: false,  
+    configurable: false
+  },
+  
+  country: {
+    enumerable: false,  
+    configurable: true  
+  }
+});
+
+delete myObj.country;
+```
+
+---
+## Date, Generators, Modules
+### [159 => 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+
+---
+## AJAX And JSON
+### [169 => 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+
+---
+## Promises
+### [179 => 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
+#### Assignment 0
+```js
+
+```
+#### Assignment 0
+```js
+
+```
+
+---

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_jurney/01-Frontend/JavaScript/Notes/17_OOP.md",
+                "file": "web_jurney/01-Frontend/JavaScript/Notes/16_Regex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "17_OOP"
-            }
-          },
-          {
-            "id": "44cec9a45a2c4457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04-Assignments"
+              "title": "16_Regex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -265,13 +239,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19a44ee51f40e35f",
+  "active": "7536085fe6f4330e",
   "lastOpenFiles": [
-    "images/Pasted image 20251229135647.png",
+    "web_jurney/01-Frontend/JavaScript/Notes/16_Regex.md",
+    "web_jurney/01-Frontend/JavaScript/05_All_Course_Assignments.md",
     "web_jurney/01-Frontend/JavaScript/04-Assignments.md",
-    "Uni/finals/OOP_2025_Final.md",
+    "Pasted image 20251229203258 1.png",
+    "Pasted image 20251229203258.png",
     "web_jurney/01-Frontend/JavaScript/Notes/17_OOP.md",
     "web_jurney/01-Frontend/JavaScript/01-Concepts.md",
+    "images/Pasted image 20251229135647.png",
+    "Uni/finals/OOP_2025_Final.md",
     "Pasted image 20251229135647.png",
     "wierd_self_study/computer_networks/01 OSI Model & TCP-IP.md",
     "wierd_self_study/computer_networks/02 IP Basics.md",
@@ -292,18 +270,13 @@
     "images/Pasted image 20251206181757.png",
     "images/Pasted image 20251206181734.png",
     "images/Pasted image 20251206181731.png",
-    "images/Pasted image 20251206170711.png",
-    "images/Pasted image 20251206164654.png",
-    "images/Pasted image 20251206164637.png",
     "wierd_self_study/computer_networks/01.3 HTTP & SMTP.md",
     "Uni/finals/OOP_2023_Final.md",
     "wierd_self_study/computer_networks/study.md",
     "Uni/finals/final_preparing.md",
     "problem_solving/mentor_training_26.md",
-    "web_jurney/01-Frontend/JavaScript/Notes/16_Regex.md",
     "problem_solving",
     "web_jurney/01-Frontend/JavaScript/Notes/15_Maps_and_Sets.md",
-    "Untitled.md",
     "web_jurney/01-Frontend/CSS",
     "web_jurney/01-Frontend/JavaScript/Notes",
     "web_jurney/00-Index",
