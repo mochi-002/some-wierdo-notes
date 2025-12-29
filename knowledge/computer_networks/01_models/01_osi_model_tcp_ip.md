@@ -2,7 +2,7 @@
 
 > The **OSI (Open Systems Interconnection)** model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
 > 
-> <img src="../../images/Pasted image 20251206181826.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
+> <img src="../../../media/images/Pasted image 20251206181826.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
 
 ### OSI Layers (bottom → top)
 
@@ -20,7 +20,7 @@
 
 > The **TCP/IP model** (also called Internet protocol suite) is the practical model actually used on the Internet.
 > 
-> <img src="../../images/Pasted image 20251206183913.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
+> <img src="../../../media/images/Pasted image 20251206183913.png" align="right" width="350" style="margin: 10px 0 20px 20px;">
 
 ### TCP/IP Layers (bottom → top)
 

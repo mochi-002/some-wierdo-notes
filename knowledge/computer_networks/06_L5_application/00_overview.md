@@ -67,7 +67,7 @@
 
 ## 3. Process-to-Process Communication
 
-<img src="../../images/Pasted image 20251228210130.png" width="480" style="display: block; margin: 20px auto;">
+<img src="../../../media/images/Pasted image 20251228210130.png" width="480" style="display: block; margin: 20px auto;">
 
 ### 3.1 Basic Concepts
 
@@ -92,7 +92,8 @@
 - HTTP: 80
 - HTTPS: 443
 - SMTP: 25
-- DNS: 53 <img src="../../images/Pasted image 20251228221552.png" width="480" style="display: block; margin: 20px auto;">
+- DNS: 53 
+<img src="../../../media/images/Pasted image 20251228221552.png" width="480" style="display: block; margin: 20px auto;">
 
 **Real Example**: To reach the web server at gaia.cs.umass.edu:
 
