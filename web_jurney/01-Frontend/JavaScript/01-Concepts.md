@@ -201,20 +201,20 @@ dv.el("div", barHtml);
 - [x] Form validation ✅ 2025-12-28
 - [x] Regex challenges ✅ 2025-12-28
 #### Assignments
-- [ ] [From 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)  -> [[04-Assignments]]
+- [x] [From 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)  -> [[04-Assignments]] ✅ 2025-12-29
  ---
 ## 1️⃣7️⃣ Object-Oriented Programming (OOP)
-- [ ] OOP principles
-- [ ] Constructor functions
-- [ ] Classes
-- [ ] Static properties & methods
-- [ ] Inheritance
-- [ ] Encapsulation
-- [ ] Prototypes
-- [ ] Prototype chain
-- [ ] Object descriptors
+- [x] OOP principles ✅ 2025-12-29
+- [x] Constructor functions ✅ 2025-12-29
+- [x] Classes ✅ 2025-12-29
+- [x] Static properties & methods ✅ 2025-12-29
+- [x] Inheritance ✅ 2025-12-29
+- [x] Encapsulation ✅ 2025-12-29
+- [x] Prototypes ✅ 2025-12-29
+- [x] Prototype chain ✅ 2025-12-29
+- [x] Object descriptors ✅ 2025-12-29
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) -> [[04-Assignments]]
+- [ ] [From 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) -> [[04-Assignments]]
 ---
 ## 1️⃣8️⃣ Date, Time & Generators
 - [ ] Date & time basics

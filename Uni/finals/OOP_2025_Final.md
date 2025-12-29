@@ -49,8 +49,10 @@ import java.util.ArrayList;
 // fix no.2
 @Override
 public boolean equals(Object obj) {
-	Student otherStudent = (student) obj;
-	if(this.id == otherStudent.id) { 
+	Date otherDate = (Date) obj;
+	if (this.day == otherDate.day
+			&& this.month == otherDate.month
+			&& this.year == otherDate.year) {
 		return true;
 	}
 	return false;
