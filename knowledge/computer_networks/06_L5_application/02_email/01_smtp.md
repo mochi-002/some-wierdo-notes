@@ -13,8 +13,8 @@
 
 Here are some typical diagrams showing the overall email architecture with user agents, mail servers, and SMTP connections:
 <div align="center"> 
-	<img src="../../../media/images/Pasted image 20260102220137.png" align="" width="45%" style="margin: 0 0 20px 20px;"> 
-	<img src="../../../media/images/Pasted image 20260102220146.png" align="" width="45%" style="margin: 0 0 20px 20px;">
+	<img src="../../../../media/images/Pasted image 20260102220137.png" align="" width="45%" style="margin: 0 0 20px 20px;"> 
+	<img src="../../../../media/images/Pasted image 20260102220146.png" align="" width="45%" style="margin: 0 0 20px 20px;">
 </div>
 
 ### User Agent Responsibilities
@@ -37,7 +37,7 @@ Here are some typical diagrams showing the overall email architecture with user 
 5. Bob's mail server places the message in **Bob's mailbox**
 6. Bob invokes his **user agent** to read the message
 
-Here is the classic step-by-step diagram (very common in Kurose & Ross):<div align="center"><img src="../../../media/images/Pasted image 20260102220208.png" align="" width="" style="margin: 0 0 0 0;"></div>
+Here is the classic step-by-step diagram (very common in Kurose & Ross):<div align="center"><img src="../../../../media/images/Pasted image 20260102220208.png" align="" width="" style="margin: 0 0 0 0;"></div>
 
 ### SMTP Protocol Details
 
@@ -73,7 +73,7 @@ S: 221 hamburger.edu closing connection
 ```
 
 Here are visual examples of SMTP interaction/handshake:
-<div align="center"><img src="../../../media/images/Pasted image 20260102220224.png" align="" width="850" style="margin: 0 0;"></div>
+<div align="center"><img src="../../../../media/images/Pasted image 20260102220224.png" align="" width="850" style="margin: 0 0;"></div>
 
 **Additional SMTP characteristics:**
 
@@ -147,8 +147,8 @@ Translates human-readable domain names (e.g., www.amazon.com) to machine-readabl
 
 Here are clear diagrams showing the DNS hierarchy and resolution process:
 <div align="center">
-	<img src="../../../media/images/Pasted image 20260102220302.png" align="" width="45%" style="margin: 0 0 ;"> 
-	<img src="../../../media/images/Pasted image 20260102220310.png" align="" width="50%" style="margin: 0 0 ;">
+	<img src="../../../../media/images/Pasted image 20260102220302.png" align="" width="45%" style="margin: 0 0 ;"> 
+	<img src="../../../../media/images/Pasted image 20260102220310.png" align="" width="50%" style="margin: 0 0 ;">
 </div>
 
 ## 3. Streaming Multimedia
@@ -169,7 +169,7 @@ Here are clear diagrams showing the DNS hierarchy and resolution process:
 **DASH** (Dynamic Adaptive Streaming over HTTP)
 
 ### DASH: Dynamic Adaptive Streaming over HTTP
-<img src="../../../media/images/Pasted image 20260102220414.png" align="right" width="500" style="margin: 0 0 20px 20px;">
+<img src="../../../../media/images/Pasted image 20260102220414.png" align="right" width="500" style="margin: 0 0 20px 20px;">
 **At server side:**
 
 - Video file divided into multiple **chunks**
@@ -194,6 +194,6 @@ Stores copies of content at **CDN nodes** (edge servers) located close to users 
 Netflix stores copies of shows (e.g., Mad Men) in many CDN locations worldwide
 
 <div align="center">
-	<img src="../../../media/images/Pasted image 20260102220438.png" align="" width="50%" style="margin: 0 0 20px 20px;">
-	<img src="../../../media/images/Pasted image 20260102223218.png" align="" width="45%" style="margin: 0 0 20px 20px;">	
+	<img src="../../../../media/images/Pasted image 20260102220438.png" align="" width="50%" style="margin: 0 0 20px 20px;">
+	<img src="../../../../media/images/Pasted image 20260102223218.png" align="" width="45%" style="margin: 0 0 20px 20px;">	
 </div>

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7868bc5e037137b6",
+        "id": "5aa8fd39447e6168",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d68c1a805616b9",
+            "id": "a869445228c66078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/06_L5_application/03_smtp.md",
-                "mode": "source",
+                "file": "knowledge/computer_networks/06_L5_application/01_http/01_http.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_smtp"
+              "title": "01_http"
             }
           }
         ]
@@ -215,14 +215,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e8d68c1a805616b9",
+  "active": "a869445228c66078",
   "lastOpenFiles": [
+    "knowledge/computer_networks/06_L5_application/02_email/01_smtp.md",
+    "knowledge/computer_networks/06_L5_application/01_http/01_http.md",
+    "knowledge/computer_networks/06_L5_application/01_http/02_http_basics.md",
+    "knowledge/computer_networks/06_L5_application/01_http/05_cookies_caching.md",
+    "knowledge/computer_networks/06_L5_application/01_http/04_http_messages.md",
+    "knowledge/computer_networks/06_L5_application/01_http/03_http_connections.md",
+    "knowledge/computer_networks/06_L5_application/01_http/01_web_pages.md",
+    "knowledge/computer_networks/06_L5_application/04_websockets",
+    "knowledge/computer_networks/06_L5_application/02_email",
+    "Untitled",
+    "knowledge/computer_networks/06_L5_application/03_dns/01_dns_flow.md",
+    "knowledge/computer_networks/05_L4_transport/01_tcp_and_udp.md",
     "media/images/Pasted image 20260102223218.png",
     "media/images/Pasted image 20260102223118.png",
-    "knowledge/computer_networks/06_L5_application/02_http/02_http_basics.md",
-    "knowledge/computer_networks/06_L5_application/02_http/03_http_connections.md",
-    "knowledge/computer_networks/06_L5_application/03_smtp.md",
-    "knowledge/computer_networks/06_L5_application/02_http/01_web_pages.md",
     "media/images/Pasted image 20260102215652.png",
     "media/images/Pasted image 20260102220438.png",
     "media/images/Pasted image 20260102220414.png",
@@ -231,20 +239,15 @@
     "media/images/Pasted image 20260102220224.png",
     "media/images/Pasted image 20260102220208.png",
     "media/images/Pasted image 20260102220146.png",
-    "media/images/Pasted image 20260102220137.png",
     "Untitled.md",
     "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
-    "knowledge/computer_networks/06_L5_application/02_http/04_http_messages.md",
-    "knowledge/computer_networks/06_L5_application/02_http/05_cookies_caching.md",
     "knowledge/computer_networks/00_index.md",
     "knowledge/computer_networks/10_cross_security/01_tls_handshake.md",
     "knowledge/computer_networks/07_infrastructure/03_caching_strategies.md",
     "knowledge/computer_networks/07_infrastructure/02_proxy_vs_reverse_proxy.md",
     "knowledge/computer_networks/07_infrastructure/01_load_balancing.md",
-    "knowledge/computer_networks/06_L5_application/05_websockets.md",
+    "knowledge/computer_networks/06_L5_application/04_websockets/05_websockets.md",
     "knowledge/computer_networks/06_L5_application/00_overview.md",
-    "knowledge/computer_networks/06_L5_application/04_dns/01_dns_flow.md",
-    "knowledge/computer_networks/05_L4_transport/01_tcp_and_udp.md",
     "knowledge/computer_networks/04_L3_network/01_ip_basics.md",
     "knowledge/computer_networks/01_models/01_osi_model_tcp_ip.md",
     "knowledge/computer_networks/L4_transport/01_tcp_and_udp.md",
@@ -260,9 +263,6 @@
     "knowledge/computer_networks/08_api",
     "knowledge/computer_networks/07_infrastructure",
     "knowledge/computer_networks/08_infrastructure",
-    "knowledge/computer_networks/07_cross_security",
-    "knowledge/computer_networks/07cross_security",
-    "knowledge/computer_networks/06_L5_application/04_dns",
     "coding_jurney/topics.canvas"
   ]
 }
