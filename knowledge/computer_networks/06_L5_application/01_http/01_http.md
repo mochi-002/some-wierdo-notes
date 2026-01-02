@@ -21,10 +21,12 @@ www.someschool.edu/someDept/pic.gif
 ---
 ## The HTTP Protocol
 
-**Hypertext Transfer Protocol (HTTP)** <img src="../../../../media/images/Pasted image 20251228232907.png" align="right" width="280" style="margin: 20px 0 20px 20px;">
+**Hypertext Transfer Protocol (HTTP)** <img src="../../../../media/images/Pasted image 20251228232907.png" align="right" width="20%" style="margin: 20px 0 20px 20px;">
 
 - HTTP is an **application layer** protocol
+
 - Runs at **port 80** at the transport layer
+
 - HTTP messages in **client/server model** are either:
     - **Request**
         - **Client Request**  
@@ -33,28 +35,27 @@ www.someschool.edu/someDept/pic.gif
         - **Server Response**  
             Web server sends (using HTTP protocol) objects in response to clients' requests
 			
-			
-			
 ---
 
 ### Using HTTP with TCP
-<img src="../../../../media/images/Pasted image 20251228233740.png" align="right" width="220" style="margin: 0 0 20px 20px;">
-- **TCP 3-Way Handshake**: TCP connection establishes in 3 steps:
-    1. Client initiates TCP connection (creates socket) to server at port 80
-    2. Server accepts TCP connection from client
-    3. HTTP messages exchanged between browser (HTTP client) and Web server (HTTP server)
-- HTTP is **stateless** → Server has **no information** about past client requests
 
+- **TCP 3-Way Handshake**: TCP connection establishes in 3 steps:
+	- Client initiates TCP connection (creates socket) to server at port 80
+	- Server accepts TCP connection from client HTTP messages exchanged between browser (HTTP client) and Web server (HTTP server)
+- HTTP is **stateless** → Server has **no information** about past client requests
+<div align="center">
+	<img src="../../../../media/images/Pasted image 20251228233740.png" align="" width="25%" style="margin: 20px 0 20px 20px;">
+</div>
 ---
 
 ### Round Trip Time (RTT)
-<img src="../../../../media/images/Pasted image 20251228234055.png" align="right" width="260" style="margin: 0 0 20px 20px;">
-- **Round Trip Time (RTT)**: Time for a small packet to travel from client to server and back → _**RTT = 2 × propagation time**
-	
-- **Total transmission time** = initial request transmission time + web page objects transmission time
-	
-- **Initial request transmission time** = **2 RTT** (one for TCP connection request + one for the HTML base file)
 
+- **Round Trip Time (RTT)**: Time for a small packet to travel from client to server and back → _**RTT = 2 × propagation time**
+- **Total transmission time** = initial request transmission time + web page objects transmission time
+- **Initial request transmission time** = **2 RTT** (one for TCP connection request + one for the HTML base file)
+<div  align="center">
+<img src="../../../../media/images/Pasted image 20251228234055.png" align="" width="35%" style="margin: 20px 0 20px 20px;">
+</div>
 ---
 ### HTTP Versions
 #### 5.1 HTTP/1.0   
