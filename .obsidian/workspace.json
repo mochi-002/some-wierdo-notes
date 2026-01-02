@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/06_L5_application/02_http/02_http_basics.md",
-                "mode": "source",
+                "file": "knowledge/computer_networks/06_L5_application/03_smtp.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02_http_basics"
+              "title": "03_smtp"
             }
           }
         ]
@@ -217,10 +217,23 @@
   },
   "active": "e8d68c1a805616b9",
   "lastOpenFiles": [
-    "knowledge/computer_networks/06_L5_application/02_http/03_http_connections.md",
-    "knowledge/computer_networks/06_L5_application/02_http/01_web_pages.md",
-    "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
+    "media/images/Pasted image 20260102223218.png",
+    "media/images/Pasted image 20260102223118.png",
     "knowledge/computer_networks/06_L5_application/02_http/02_http_basics.md",
+    "knowledge/computer_networks/06_L5_application/02_http/03_http_connections.md",
+    "knowledge/computer_networks/06_L5_application/03_smtp.md",
+    "knowledge/computer_networks/06_L5_application/02_http/01_web_pages.md",
+    "media/images/Pasted image 20260102215652.png",
+    "media/images/Pasted image 20260102220438.png",
+    "media/images/Pasted image 20260102220414.png",
+    "media/images/Pasted image 20260102220310.png",
+    "media/images/Pasted image 20260102220302.png",
+    "media/images/Pasted image 20260102220224.png",
+    "media/images/Pasted image 20260102220208.png",
+    "media/images/Pasted image 20260102220146.png",
+    "media/images/Pasted image 20260102220137.png",
+    "Untitled.md",
+    "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
     "knowledge/computer_networks/06_L5_application/02_http/04_http_messages.md",
     "knowledge/computer_networks/06_L5_application/02_http/05_cookies_caching.md",
     "knowledge/computer_networks/00_index.md",
@@ -229,7 +242,6 @@
     "knowledge/computer_networks/07_infrastructure/02_proxy_vs_reverse_proxy.md",
     "knowledge/computer_networks/07_infrastructure/01_load_balancing.md",
     "knowledge/computer_networks/06_L5_application/05_websockets.md",
-    "knowledge/computer_networks/06_L5_application/03_smtp.md",
     "knowledge/computer_networks/06_L5_application/00_overview.md",
     "knowledge/computer_networks/06_L5_application/04_dns/01_dns_flow.md",
     "knowledge/computer_networks/05_L4_transport/01_tcp_and_udp.md",
@@ -242,9 +254,7 @@
     "templates/basic_study_temp.md",
     "templates",
     "hidden/markdown_formating_prompet.md",
-    "hidden/css_tricky_formats.md",
     "hidden",
-    "knowledge/computer_networks/09_advanced/01_advanced_networking_topics.md",
     "knowledge/computer_networks/10_cross_security",
     "knowledge/computer_networks/09_advanced",
     "knowledge/computer_networks/08_api",
@@ -253,16 +263,6 @@
     "knowledge/computer_networks/07_cross_security",
     "knowledge/computer_networks/07cross_security",
     "knowledge/computer_networks/06_L5_application/04_dns",
-    "Pasted image 20251229203258 1.png",
-    "Pasted image 20251229203258.png",
-    "images/Pasted image 20251229135647.png",
-    "Pasted image 20251229135647.png",
-    "images/Pasted image 20251206181826.png",
-    "images/Pasted image 20251206183913.png",
-    "images/Pasted image 20251206190759.png",
-    "images/Pasted image 20251206181757.png",
-    "images/Pasted image 20251206181734.png",
-    "images/Pasted image 20251206181731.png",
     "coding_jurney/topics.canvas"
   ]
 }
