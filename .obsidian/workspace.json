@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/06_L5_application/02_email/01_smtp.md",
+                "file": "knowledge/computer_networks/06_L5_application/01_http/01_http.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_smtp"
+              "title": "01_http"
             }
           }
         ]
@@ -217,8 +217,8 @@
   },
   "active": "a869445228c66078",
   "lastOpenFiles": [
-    "knowledge/computer_networks/06_L5_application/01_http/01_http.md",
     "knowledge/computer_networks/06_L5_application/02_email/01_smtp.md",
+    "knowledge/computer_networks/06_L5_application/01_http/01_http.md",
     "knowledge/computer_networks/06_L5_application/01_http/02_http_basics.md",
     "knowledge/computer_networks/06_L5_application/01_http/05_cookies_caching.md",
     "knowledge/computer_networks/06_L5_application/01_http/04_http_messages.md",

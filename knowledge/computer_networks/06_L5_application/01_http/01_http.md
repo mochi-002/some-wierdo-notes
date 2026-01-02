@@ -46,8 +46,8 @@ www.someschool.edu/someDept/pic.gif
 <div align="center">
 	<img src="../../../../media/images/Pasted image 20251228233740.png" align="" width="25%" style="margin: 20px 0 20px 20px;">
 </div>
----
 
+---
 ### Round Trip Time (RTT)
 
 - **Round Trip Time (RTT)**: Time for a small packet to travel from client to server and back → _**RTT = 2 × propagation time**
@@ -56,6 +56,7 @@ www.someschool.edu/someDept/pic.gif
 <div  align="center">
 <img src="../../../../media/images/Pasted image 20251228234055.png" align="" width="35%" style="margin: 20px 0 20px 20px;">
 </div>
+
 ---
 ### HTTP Versions
 #### 5.1 HTTP/1.0   
