@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
+                "file": "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04_udp_and_checksum"
+              "title": "02_tcp_vs_udp"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249,
-    "collapsed": true
+    "width": 249
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -218,6 +217,7 @@
   },
   "active": "a869445228c66078",
   "lastOpenFiles": [
+    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
     "media/images/Pasted image 20260103025208.png",
     "media/images/Pasted image 20260103024200.png",
     "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
@@ -230,9 +230,7 @@
     "media/images/Pasted image 20260103023043.png",
     "media/images/Pasted image 20260103022931.png",
     "media/images/Pasted image 20260103022844.png",
-    "Pasted image 20260103022931.png",
     "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
     "README.md",
     "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/06_L5_application/02_smtp.md",

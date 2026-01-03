@@ -1,5 +1,5 @@
 ## TCP vs UDP 
-<img src="../../../media/images/Pasted image 20260103021809.png" align="right" width="55%" style="margin: 20px 0 20px 20px;">
+<img src="../../../media/images/Pasted image 20260103021809.png" align="right" width="45%" style="margin: 20px 0 20px 20px;">
 
 **TCP features:**
 
