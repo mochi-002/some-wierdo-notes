@@ -35,7 +35,10 @@
 | **Handshaking**              | Uses SYN, SYN-ACK, ACK for connection setup and FIN/RST for termination           | No handshaking                                                          |
 | **Use Cases**                | Web browsing (HTTP/HTTPS), email (SMTP/IMAP), file transfer (FTP), SSH            | DNS, video streaming, online gaming, VoIP, live broadcasts, IoT devices |
 | **Broadcast/Multicast**      | Not supported                                                                     | Fully supported                                                         |
-<img src="../../../media/images/Pasted image 20251206164637.png" width="600" style="display: block; margin: auto auto;">
+
+<div align="center">
+	<img src="../../../media/images/Pasted image 20251206164637.png" width="600" style="">
+</div>
 
 ---
 ## How TCP Works (Connection-Oriented)<img src="../../../media/images/Pasted%20image%2020251206164654.png" align="right" width="430" style="margin: 0 0 20px 30px;">
