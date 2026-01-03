@@ -41,7 +41,7 @@
 </div>
 
 ---
-## How TCP Works (Connection-Oriented)<img src="../../../media/images/Pasted%20image%2020251206164654.png" align="right" width="430" style="margin: 0 0 20px 30px;">
+## How TCP Works (Connection-Oriented)<img src="../../../media/images/Pasted%20image%2020251206164654.png" align="right" width="400" style="margin: 0 0 20px 30px;">
 
 1. **Connection Establishment** (3-way handshake)  
    → Client sends **SYN**  
@@ -62,7 +62,7 @@
 - When the **order of data matters**.
 - When some delay is acceptable as long as the data is correct.
 ---
-## How UDP Works (Connectionless)<img src="../../../media/images/Pasted image 20251206164504.png" align="right" width="340" style="margin: 0 0 20px 30px;">
+## How UDP Works (Connectionless)<img src="../../../media/images/Pasted image 20251206164504.png" align="right" width="300" style="margin: 0 0 20px 30px;">
 
 1. Application sends data as datagrams
 2. Each datagram is independent
