@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-                "mode": "preview",
+                "file": "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02_tcp_vs_udp"
+              "title": "04_udp_and_checksum"
             }
           }
         ]
@@ -217,6 +217,7 @@
   },
   "active": "a869445228c66078",
   "lastOpenFiles": [
+    "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
     "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
     "media/images/Pasted image 20260103025208.png",
     "media/images/Pasted image 20260103024200.png",
@@ -230,7 +231,6 @@
     "media/images/Pasted image 20260103023043.png",
     "media/images/Pasted image 20260103022931.png",
     "media/images/Pasted image 20260103022844.png",
-    "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
     "README.md",
     "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/06_L5_application/02_smtp.md",

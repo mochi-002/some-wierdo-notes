@@ -37,7 +37,7 @@
 	- If **YES** = no error detected 
 	- If **NO** = error detected
 
-##### **Very Very Important Note** 🚨
+### **Very Very Important Note** 🚨
 **IMPORTANT NOTE** (pay close attention – this is critical for correct UDP checksum calculation)
 - When adding numbers, a carryout from the most significant bit (carryout) needs to be added to the result (wrap-around addition).
 ### Example on Checksum
