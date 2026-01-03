@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
-                "mode": "source",
+                "file": "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04_udp_and_checksum"
+              "title": "06_flow_and_congestion_control"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 374
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -217,27 +217,38 @@
   },
   "active": "a869445228c66078",
   "lastOpenFiles": [
+    "media/images/Pasted image 20260103124842.png",
+    "media/images/Pasted image 20260103124340.png",
+    "media/images/Pasted image 20260103123946.png",
+    "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
+    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
-    "media/images/Pasted image 20260103025208.png",
-    "media/images/Pasted image 20260103024200.png",
     "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
-    "media/images/Pasted image 20260103023725.png",
-    "media/images/Pasted image 20260103023718.png",
-    "media/images/Pasted image 20260103023549.png",
-    "media/images/Pasted image 20260103023333.png",
+    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
+    "media/images/Pasted image 20260103111149.png",
+    "media/images/Pasted image 20260103120837.png",
+    "media/images/Pasted image 20260103120722.png",
+    "06_flow_and_congestion_control.md",
+    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
+    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport",
+    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks",
+    "home/mochi/Documents/Notes/theRealVault/knowledge",
+    "home/mochi/Documents/Notes/theRealVault",
+    "home/mochi/Documents/Notes",
+    "home/mochi/Documents",
+    "home/mochi",
+    "home",
+    "media/images/Pasted image 20260103114413.png",
+    "media/images/Pasted image 20260103114358.png",
+    "media/images/Pasted image 20260103113950.png",
+    "media/images/Pasted image 20260103113927.png",
+    "media/images/Pasted image 20260103112341.png",
     "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
-    "media/images/Pasted image 20260103023130.png",
-    "media/images/Pasted image 20260103023043.png",
-    "media/images/Pasted image 20260103022931.png",
-    "media/images/Pasted image 20260103022844.png",
     "README.md",
     "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/06_L5_application/02_smtp.md",
     "knowledge/computer_networks/06_L5_application/01_http.md",
     "knowledge/computer_networks/06_L5_application/00_overview.md",
-    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
-    "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
     "knowledge/computer_networks/06_L5_application/01_http/02_http_basics.md",
     "knowledge/computer_networks/06_L5_application/01_http/05_cookies_caching.md",
     "knowledge/computer_networks/06_L5_application/01_http/04_http_messages.md",
@@ -245,7 +256,6 @@
     "knowledge/computer_networks/06_L5_application/01_http/01_web_pages.md",
     "knowledge/computer_networks/06_L5_application/04_websockets",
     "knowledge/computer_networks/06_L5_application/02_email",
-    "Untitled",
     "knowledge/computer_networks/06_L5_application/03_dns_flow.md",
     "Untitled.md",
     "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
@@ -253,15 +263,6 @@
     "knowledge/computer_networks/10_cross_security/01_tls_handshake.md",
     "knowledge/computer_networks/07_infrastructure/03_caching_strategies.md",
     "knowledge/computer_networks/07_infrastructure/02_proxy_vs_reverse_proxy.md",
-    "knowledge/computer_networks/07_infrastructure/01_load_balancing.md",
-    "knowledge/computer_networks/06_L5_application/04_websockets.md",
-    "templates",
-    "hidden",
-    "knowledge/computer_networks/10_cross_security",
-    "knowledge/computer_networks/09_advanced",
-    "knowledge/computer_networks/08_api",
-    "knowledge/computer_networks/07_infrastructure",
-    "knowledge/computer_networks/08_infrastructure",
     "coding_jurney/topics.canvas"
   ]
 }
