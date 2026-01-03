@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/06_L5_application/02_smtp.md",
-                "mode": "source",
+                "file": "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02_smtp"
+              "title": "04_udp_and_checksum"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366
+    "width": 249,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -217,16 +218,28 @@
   },
   "active": "a869445228c66078",
   "lastOpenFiles": [
+    "media/images/Pasted image 20260103025208.png",
+    "media/images/Pasted image 20260103024200.png",
+    "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
+    "media/images/Pasted image 20260103023725.png",
+    "media/images/Pasted image 20260103023718.png",
+    "media/images/Pasted image 20260103023549.png",
+    "media/images/Pasted image 20260103023333.png",
+    "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
+    "media/images/Pasted image 20260103023130.png",
+    "media/images/Pasted image 20260103023043.png",
+    "media/images/Pasted image 20260103022931.png",
+    "media/images/Pasted image 20260103022844.png",
+    "Pasted image 20260103022931.png",
+    "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
+    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
+    "README.md",
+    "knowledge/computer_networks/05_L4_transport/00_overview.md",
+    "knowledge/computer_networks/06_L5_application/02_smtp.md",
     "knowledge/computer_networks/06_L5_application/01_http.md",
     "knowledge/computer_networks/06_L5_application/00_overview.md",
-    "knowledge/computer_networks/05_L4_transport/00_overview.md",
-    "Pasted image 20260103015712.png",
     "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
-    "knowledge/computer_networks/05_L4_transport/04_udp_checksum.md",
-    "knowledge/computer_networks/05_L4_transport/02_multiplexing_demultiplexing.md",
-    "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
-    "knowledge/computer_networks/06_L5_application/02_smtp.md",
     "knowledge/computer_networks/06_L5_application/01_http/02_http_basics.md",
     "knowledge/computer_networks/06_L5_application/01_http/05_cookies_caching.md",
     "knowledge/computer_networks/06_L5_application/01_http/04_http_messages.md",
@@ -236,16 +249,6 @@
     "knowledge/computer_networks/06_L5_application/02_email",
     "Untitled",
     "knowledge/computer_networks/06_L5_application/03_dns_flow.md",
-    "knowledge/computer_networks/05_L4_transport/03_tcp_vs_udp.md",
-    "media/images/Pasted image 20260102223218.png",
-    "media/images/Pasted image 20260102223118.png",
-    "media/images/Pasted image 20260102215652.png",
-    "media/images/Pasted image 20260102220438.png",
-    "media/images/Pasted image 20260102220414.png",
-    "media/images/Pasted image 20260102220310.png",
-    "media/images/Pasted image 20260102220302.png",
-    "media/images/Pasted image 20260102220224.png",
-    "media/images/Pasted image 20260102220208.png",
     "Untitled.md",
     "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
     "knowledge/computer_networks/00_index.md",
@@ -254,7 +257,6 @@
     "knowledge/computer_networks/07_infrastructure/02_proxy_vs_reverse_proxy.md",
     "knowledge/computer_networks/07_infrastructure/01_load_balancing.md",
     "knowledge/computer_networks/06_L5_application/04_websockets.md",
-    "knowledge/computer_networks/04_L3_network/01_ip_basics.md",
     "templates",
     "hidden",
     "knowledge/computer_networks/10_cross_security",

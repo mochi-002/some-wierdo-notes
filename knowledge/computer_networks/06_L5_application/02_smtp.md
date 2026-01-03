@@ -13,8 +13,8 @@
 
 Here are some typical diagrams showing the overall email architecture with user agents, mail servers, and SMTP connections:
 <div align="center"> 
-	<img src="../../../media/images/Pasted image 20260102220137.png" align="" width="45%" style="margin: 0 0 20px 20px;"> 
-	<img src="../../../media/images/Pasted image 20260102220146.png" align="" width="45%" style="margin: 0 0 20px 20px;">
+	<img src="../../../media/images/Pasted image 20260102220137.png" align="" width="45%" style="margin: 0 0 ;"> 
+	<img src="../../../media/images/Pasted image 20260102220146.png" align="" width="45%" style="margin: 0 0 ;">
 </div>
 
 ### User Agent Responsibilities

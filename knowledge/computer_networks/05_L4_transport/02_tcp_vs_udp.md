@@ -1,4 +1,25 @@
-## 3.1 Full Comparison Table 
+## TCP vs UDP 
+<img src="../../../media/images/Pasted image 20260103021809.png" align="right" width="55%" style="margin: 20px 0 20px 20px;">
+
+**TCP features:**
+
+- Reliable data transfer
+- In-order data segments delivery
+- Congestion control
+- Flow control
+- Connection setup
+
+**UDP features:**
+
+- Unreliable data transfer
+- Unordered delivery
+
+**Services not available in both UDP and TCP:**
+
+- Determined delay guarantees
+- Security of data transfer
+
+## Full Comparison Table 
 
 | **Feature**                  | **TCP (Transmission Control Protocol)**                                           | **UDP (User Datagram Protocol)**                                        |
 | ---------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -17,7 +38,7 @@
 <img src="../../../media/images/Pasted image 20251206164637.png" width="600" style="display: block; margin: auto auto;">
 
 ---
-## 3.2 How TCP Works (Connection-Oriented)<img src="../../../media/images/Pasted%20image%2020251206164654.png" align="right" width="430" style="margin: 0 0 20px 30px;">
+## How TCP Works (Connection-Oriented)<img src="../../../media/images/Pasted%20image%2020251206164654.png" align="right" width="430" style="margin: 0 0 20px 30px;">
 
 1. **Connection Establishment** (3-way handshake)  
    → Client sends **SYN**  
@@ -33,12 +54,12 @@
 3. **Connection Termination** (4-way handshake)  
    → FIN → ACK → FIN → ACK  
 ---
-## 3.3 When to use TCP
+## When to use TCP
 - When **reliability is important**.
 - When the **order of data matters**.
 - When some delay is acceptable as long as the data is correct.
 ---
-## 3.4 How UDP Works (Connectionless)<img src="../../../media/images/Pasted image 20251206164504.png" align="right" width="340" style="margin: 0 0 20px 30px;">
+## How UDP Works (Connectionless)<img src="../../../media/images/Pasted image 20251206164504.png" align="right" width="340" style="margin: 0 0 20px 30px;">
 
 1. Application sends data as datagrams
 2. Each datagram is independent
@@ -49,7 +70,7 @@
 **Perfect for real-time applications** where low latency > perfect reliability
 
 ---
-## 3.5 When to use UDP
+## When to use UDP
 - When **speed is more important than reliability**.
 - When **low latency** is critical.
 - When the application can tolerate some data loss.
