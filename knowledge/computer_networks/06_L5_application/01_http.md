@@ -21,7 +21,7 @@ www.someschool.edu/someDept/pic.gif
 ---
 ## The HTTP Protocol
 
-**Hypertext Transfer Protocol (HTTP)** <img src="../../../../media/images/Pasted image 20251228232907.png" align="right" width="20%" style="margin: 20px 0 20px 20px;">
+**Hypertext Transfer Protocol (HTTP)** <img src="../../../media/images/Pasted image 20251228232907.png" align="right" width="20%" style="margin: 20px 0 20px 20px;">
 
 - HTTP is an **application layer** protocol
 
@@ -44,7 +44,7 @@ www.someschool.edu/someDept/pic.gif
 	- Server accepts TCP connection from client HTTP messages exchanged between browser (HTTP client) and Web server (HTTP server)
 - HTTP is **stateless** → Server has **no information** about past client requests
 <div align="center">
-	<img src="../../../../media/images/Pasted image 20251228233740.png" align="" width="25%" style="margin: 20px 0 20px 20px;">
+	<img src="../../../media/images/Pasted image 20251228233740.png" align="" width="25%" style="margin: 20px 0 20px 20px;">
 </div>
 
 ---
@@ -54,7 +54,7 @@ www.someschool.edu/someDept/pic.gif
 - **Total transmission time** = initial request transmission time + web page objects transmission time
 - **Initial request transmission time** = **2 RTT** (one for TCP connection request + one for the HTML base file)
 <div  align="center">
-<img src="../../../../media/images/Pasted image 20251228234055.png" align="" width="35%" style="margin: 20px 0 20px 20px;">
+<img src="../../../media/images/Pasted image 20251228234055.png" align="" width="35%" style="margin: 20px 0 20px 20px;">
 </div>
 
 ---
@@ -105,7 +105,10 @@ www.someschool.edu/someDept/pic.gif
 
 ---
 
-<div align="center"> <img src="../../../../media/images/Pasted image 20251229000402.png" width="45%"> <img src="../../../../media/images/Pasted image 20251229000543.png" width="45%"> </div>
+<div align="center"> 
+	<img src="../../../media/images/Pasted image 20251229000402.png" width="45%"> 
+	<img src="../../../media/images/Pasted image 20251229000543.png" width="45%"> 
+</div>
 
 ---
 
@@ -131,7 +134,8 @@ www.someschool.edu/someDept/pic.gif
 
 ---
 
-#### Persistent HTTP Response Time<img src="../../../../media/images/Pasted image 20251228235146.png" align="right" width="480" style="margin: 10px 0 20px 20px;">
+#### Persistent HTTP Response Time
+<img src="../../../media/images/Pasted image 20251228235146.png" align="right" width="480" style="margin: 10px 0 20px 20px;">
 
 1. **Non-Pipelined Persistent Connection**
     - Establish one TCP connection → takes **2 RTTs** (handshake + initial request)
@@ -191,7 +195,7 @@ Keep-Alive: 115\r\n
 \r\n
 ```
 
-**Key Parts Explained**:<img src="../../../../media/images/Pasted image 20251229005351.png" align="right" width="480" style="margin: -20px 0px 20px 20px;">
+**Key Parts Explained**:<img src="../../../media/images/Pasted image 20251229005351.png" align="right" width="480" style="margin: -20px 0px 20px 20px;">
 
 - **Request line**: `GET /index.html HTTP/1.1`
 - **Header lines**: Host, User-Agent, Accept, Accept-Language, Accept-Encoding, Connection, Keep-Alive, etc.
@@ -212,7 +216,7 @@ cr lf
 entity body
 ```
 
-- <img src="../../../../media/images/Pasted image 20251229005851.png" align="right" width="300" style="margin: -50px 0px 20px 20px;">**Request line**: method + URL + version
+- <img src="../../../media/images/Pasted image 20251229005851.png" align="right" width="300" style="margin: -50px 0px 20px 20px;">**Request line**: method + URL + version
 - **Header lines**: field name : value
 - **Blank line** (cr lf): separates headers from body
 - **Entity body** (optional): used in POST, PUT, etc.
@@ -254,7 +258,7 @@ entity body
 
 ## HTTP Response Message
 
-**Structure**:<img src="../../../../media/images/Pasted image 20251229010349.png" align="right" width="480" style="margin: 10px 0px 20px 20px;">
+**Structure**:<img src="../../../media/images/Pasted image 20251229010349.png" align="right" width="480" style="margin: 10px 0px 20px 20px;">
 
 - Status line: `HTTP/1.1 200 OK`
 - Header lines: `Date:`, `Server:`, `Content-Length:`, etc.
@@ -276,7 +280,7 @@ entity body
 - Small piece of data sent by server to browser
 - Browser stores it and sends it back in future requests
 
-**Typical Cookie Usage Steps**:<img src="../../../../media/images/Pasted image 20251229010937.png" align="right" width="500" style="margin: 10px 0px 20px 20px;">
+**Typical Cookie Usage Steps**:<img src="../../../media/images/Pasted image 20251229010937.png" align="right" width="500" style="margin: 10px 0px 20px 20px;">
 
 1. Client requests page for the first time
 2. Server creates unique ID and sends cookie
@@ -301,7 +305,7 @@ entity body
 - **Proxy server** (web cache) acts as both client and server
     - server for original requesting client
     - client to origin server
-- **Goal**: Satisfy client requests **without involving origin server** <img src="../../../../media/images/Pasted image 20251229011754.png" align="right" width="450" style="margin: 0px 0px 20px 20px;">
+- **Goal**: Satisfy client requests **without involving origin server** <img src="../../../media/images/Pasted image 20251229011754.png" align="right" width="450" style="margin: 0px 0px 20px 20px;">
 
 **How it works**:
 
