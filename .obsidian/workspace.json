@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa8fd39447e6168",
+        "id": "9820907ecb742e99",
         "type": "tabs",
         "children": [
           {
-            "id": "a869445228c66078",
+            "id": "d8e2c0e2bbcf22a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
+                "file": "knowledge/computer_networks/04_L3_network/00_overview.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06_flow_and_congestion_control"
+              "title": "00_overview"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 374,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -215,13 +216,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a869445228c66078",
+  "active": "d8e2c0e2bbcf22a0",
   "lastOpenFiles": [
+    "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
+    "knowledge/computer_networks/04_L3_network/00_overview.md",
+    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "media/images/Pasted image 20260103124842.png",
     "media/images/Pasted image 20260103124340.png",
     "media/images/Pasted image 20260103123946.png",
-    "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
-    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
     "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
     "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
@@ -242,7 +244,6 @@
     "media/images/Pasted image 20260103114358.png",
     "media/images/Pasted image 20260103113950.png",
     "media/images/Pasted image 20260103113927.png",
-    "media/images/Pasted image 20260103112341.png",
     "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
     "README.md",
     "knowledge/computer_networks/05_L4_transport/00_overview.md",

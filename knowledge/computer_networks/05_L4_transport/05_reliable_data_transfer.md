@@ -133,7 +133,7 @@ The receiver's FSM focuses on error detection via checksum and providing feedbac
 
 ---
 
-#### 4.2.2 Operation Without Errors
+#### 0.22 Operation Without Errors
 <img src="../../../media/images/Pasted image 20260103114358.png" align="right" width="50%" style="margin: 20px 0 20px 20px;"> 
 
 1. Sender gets data from the app layer 
@@ -159,7 +159,7 @@ The receiver's FSM focuses on error detection via checksum and providing feedbac
 
 ---
 
-#### 4.2.3 Error Scenario
+#### 0.23 Error Scenario
 <img src="../../../media/images/Pasted image 20260103114413.png" align="right" width="50%" style="margin: 20px 0 20px 20px;"> 
 
 1. Sender gets data 
