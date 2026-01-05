@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
+                "file": "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_multiplexing_demultiplexing"
+              "title": "01_core_functions_of_a_router"
+            }
+          },
+          {
+            "id": "837eb783c82ad5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/computer_networks/04_L3_network/03_ip_basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03_ip_basics"
+            }
+          },
+          {
+            "id": "f808aca5d721a633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/computer_networks/04_L3_network/00_overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00_overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 254
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -216,21 +264,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8e2c0e2bbcf22a0",
+  "active": "837eb783c82ad5ab",
   "lastOpenFiles": [
+    "media/images/Pasted image 20260105054422.png",
+    "knowledge/computer_networks/04_L3_network/03_ip_basics.md",
+    "media/images/Pasted image 20260105054431.png",
+    "media/images/Pasted image 20260105054338.png",
+    "media/images/Pasted image 20260105054335.png",
+    "media/images/Pasted image 20260105054037.png",
+    "media/images/Pasted image 20260105053748.png",
+    "media/images/Pasted image 20260105053545.png",
+    "media/images/Pasted image 20260105053408.png",
+    "knowledge/computer_networks/04_L3_network/04_ip_v4_vs_ip_v6_headers.md",
+    "knowledge/computer_networks/01_models/01_osi_model_tcp_ip.md",
+    "knowledge/computer_networks/04_L3_network/00_overview.md",
+    "knowledge/computer_networks/04_L3_network/02_router_architecture_overview.md",
+    "media/images/Pasted image 20260105050541.png",
+    "media/images/Pasted image 20260105050339.png",
     "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-    "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
+    "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
+    "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
     "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
-    "knowledge/computer_networks/04_L3_network/00_overview.md",
-    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
-    "media/images/Pasted image 20260103124842.png",
-    "media/images/Pasted image 20260103124340.png",
-    "media/images/Pasted image 20260103123946.png",
     "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
-    "media/images/Pasted image 20260103111149.png",
-    "media/images/Pasted image 20260103120837.png",
-    "media/images/Pasted image 20260103120722.png",
+    "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
+    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "06_flow_and_congestion_control.md",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport",
@@ -241,12 +299,7 @@
     "home/mochi/Documents",
     "home/mochi",
     "home",
-    "media/images/Pasted image 20260103114413.png",
-    "media/images/Pasted image 20260103114358.png",
-    "media/images/Pasted image 20260103113950.png",
-    "media/images/Pasted image 20260103113927.png",
     "README.md",
-    "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/06_L5_application/02_smtp.md",
     "knowledge/computer_networks/06_L5_application/01_http.md",
     "knowledge/computer_networks/06_L5_application/00_overview.md",
@@ -258,12 +311,6 @@
     "knowledge/computer_networks/06_L5_application/04_websockets",
     "knowledge/computer_networks/06_L5_application/02_email",
     "knowledge/computer_networks/06_L5_application/03_dns_flow.md",
-    "Untitled.md",
-    "knowledge/computer_networks/06_L5_application/02_http/01_versions.md",
-    "knowledge/computer_networks/00_index.md",
-    "knowledge/computer_networks/10_cross_security/01_tls_handshake.md",
-    "knowledge/computer_networks/07_infrastructure/03_caching_strategies.md",
-    "knowledge/computer_networks/07_infrastructure/02_proxy_vs_reverse_proxy.md",
     "coding_jurney/topics.canvas"
   ]
 }
