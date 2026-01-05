@@ -24,6 +24,7 @@
 <div align="center">
 	<img src="../../../media/images/Pasted image 20260103023718.png" align="" width="50%" style="margin: 20px 0 20px 20px;">
 </div>
+
 ### Connection-Oriented Demultiplexing (TCP)
 
 - Server receives data segments on **different server sockets** from multiple hosts/clients
