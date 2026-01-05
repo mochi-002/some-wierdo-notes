@@ -5,6 +5,7 @@ The IP datagram is the basic unit of information passed across an IP network. It
 - **Header**: Control information for routing and delivery    
 - **Payload**: Actual data being transported (e.g., TCP/UDP segment)    
 <img src="../../../media/images/Pasted image 20260105053545.png" align="right" width="45%" style="margin: 85px 0 0px 20px;">
+
 ### 0.1 Key Fields in IPv4 Datagram
 
 - **Version (ver):** IP protocol version number (4 for IPv4, 6 for IPv6)    

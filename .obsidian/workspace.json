@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/04_L3_network/03_ip_basics.md",
+                "file": "knowledge/computer_networks/04_L3_network/03_ip_datagram_and_addressing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_ip_basics"
+              "title": "03_ip_datagram_and_addressing"
             }
           },
           {
@@ -267,7 +267,7 @@
   "active": "837eb783c82ad5ab",
   "lastOpenFiles": [
     "media/images/Pasted image 20260105054422.png",
-    "knowledge/computer_networks/04_L3_network/03_ip_basics.md",
+    "knowledge/computer_networks/04_L3_network/03_ip_datagram_and_addressing.md",
     "media/images/Pasted image 20260105054431.png",
     "media/images/Pasted image 20260105054338.png",
     "media/images/Pasted image 20260105054335.png",
