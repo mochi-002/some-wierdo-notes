@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44a0e5aaa76b86d7",
+        "id": "53c08252064889bb",
         "type": "tabs",
         "children": [
           {
-            "id": "110dc0407311df15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/01_frontend/javascript/00_notes/21_Promises_&_sync_Await.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "21_Promises_&_sync_Await"
-            }
-          },
-          {
-            "id": "74a63a2b9dccb387",
+            "id": "71aca42995166922",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,13 +32,13 @@
             }
           },
           {
-            "id": "03867734d61b19d9",
+            "id": "7af91a4deeebfbd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/01_frontend/javascript/01_concepts.md",
-                "mode": "source",
+                "file": "learning/01_frontend/javascript/00_javascript_fundamentals/18_Promises_&_sync_Await.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_concepts"
+              "title": "18_Promises_&_sync_Await"
             }
           }
         ]
@@ -136,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391,
-    "collapsed": true
+    "width": 391
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -264,19 +239,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "110dc0407311df15",
+  "active": "71aca42995166922",
   "lastOpenFiles": [
-    "learning/01_frontend/javascript/01_concepts.md",
-    "learning/01_frontend/javascript/00_notes/21_Promises_&_sync_Await.md",
-    "learning/01_frontend/javascript/00_notes/19_modules.md",
-    "learning/01_frontend/javascript/00_notes/18_Date_,_Time_,_Generators_&_Modules.md",
-    "learning/01_frontend/javascript/00_notes/17_OOP.md",
-    "learning/01_frontend/javascript/00_notes/16_Regex.md",
-    "learning/01_frontend/javascript/00_notes/15_Maps_and_Sets.md",
-    "learning/01_frontend/javascript/00_notes/14_Destructuring & Spread.md",
-    "learning/01_frontend/javascript/00_notes/13_BOM.md",
-    "learning/01_frontend/javascript/00_notes/20_JSON,_AJAX_&_APIs.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/18_Promises_&_sync_Await.md",
     "learning/01_frontend/javascript/04-assignments.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/17_JSON,_AJAX_&_APIs.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/09_DOM.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/08_objects_and_methods.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/07_functions.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/06_loops.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/05_arrays_and_methods.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/04_conditions_and_switch.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/03_number_and_string.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/02_operators.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/01_data_types_and_variables.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/10_BOM.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/00_introduction_to_javascript.md",
+    "learning/01_frontend/javascript/01_concepts.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/16_modules.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/15_Date_,_Time_,_Generators_&_Modules.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/14_OOP.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/13_Regex.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/12_Maps_and_Sets.md",
+    "learning/01_frontend/javascript/00_javascript_fundamentals/11_Destructuring & Spread.md",
     "learning/01_frontend/javascript/04_assignments_notes.md",
     "knowledge/computer_networks/04_L3_network/00_overview.md",
     "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
@@ -290,18 +275,8 @@
     "media/images/Pasted image 20260105053748.png",
     "media/images/Pasted image 20260105053545.png",
     "media/images/Pasted image 20260105053408.png",
-    "knowledge/computer_networks/04_L3_network/04_ip_v4_vs_ip_v6_headers.md",
-    "knowledge/computer_networks/01_models/01_osi_model_tcp_ip.md",
     "media/images/Pasted image 20260105050541.png",
     "media/images/Pasted image 20260105050339.png",
-    "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-    "knowledge/computer_networks/05_L4_transport/00_overview.md",
-    "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
-    "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
-    "knowledge/computer_networks/05_L4_transport/03_multiplexing_demultiplexing.md",
-    "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
-    "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
-    "06_flow_and_congestion_control.md",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks",
     "home/mochi/Documents/Notes/theRealVault/knowledge",

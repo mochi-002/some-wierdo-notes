@@ -917,10 +917,94 @@ xhr.onreadystatechange = function () {
 ### [179 => 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
 #### Assignment 01
 ```js
+const getData = (apiLink) => {
+  return new Promise((resolve, reject) => {
+    let xhr = new XMLHttpRequest();
+    xhr.open("GET", apiLink);
+
+    xhr.onload = function () {
+      if (xhr.status === 200) {
+        resolve(JSON.parse(this.responseText));
+      } else {
+        reject(Error("No Data Found"));
+      }
+    };
+
+    xhr.onerror = function () {
+      reject(Error("Network Error"));
+    };
+
+    xhr.send();
+  });
+};
+
+// ------------------------------
+// First way: Using Promises
+// ------------------------------
+getData("assets/data/data.json")
+  .then((data) => {
+    return data.slice(0, 5);
+  })
+  .then((mainData) => {
+    const htmlDiv = document.getElementById("data");
+
+    mainData.forEach((item) => {
+      const div = document.createElement("div");
+      div.innerHTML = `
+        <h2>${item.title}</h2>
+        <p>${item.description}</p>
+      `;
+      htmlDiv.appendChild(div);
+    });
+  })
+  .catch((err) => console.error(err));
+
+// ------------------------------
+// Second way: Using async/await
+// ------------------------------
+(async () => {
+  try {
+    const data = await getData("assets/data/data.json");
+    const mainData = data.slice(0, 5);
+
+    console.log(data);
+
+    const htmlDiv = document.getElementById("data");
+
+    mainData.forEach((item) => {
+      const div = document.createElement("div");
+      div.innerHTML = `
+        <h2>${item.title}</h2>
+        <p>${item.description}</p>
+      `;
+      htmlDiv.appendChild(div);
+    });
+  } catch (err) {
+    console.error(err);
+  }
+})();
 
 ```
 #### Assignment 02
 ```js
+fetch("assets/data/data.json")
+  .then((res) => res.json())
+  .then((res) => {
+    console.log(res);
+
+    const data = res.slice(0, 5);
+    const htmlDiv = document.getElementById("data");
+
+    data.forEach((item) => {
+      const div = document.createElement("div");
+      div.innerHTML = `
+        <h2>${item.title}</h2>
+        <p>${item.description}</p>
+      `;
+      htmlDiv.appendChild(div);
+    });
+  })
+  .catch((err) => console.error(err));
 
 ```
 
