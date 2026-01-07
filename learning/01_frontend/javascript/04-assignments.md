@@ -680,67 +680,246 @@ delete myObj.country;
 ---
 ## Date, Generators, Modules
 ### [159 => 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
-#### Assignment 0
+#### Assignment 01
 ```js
+const birthDate = new Date(2006, 5, 4);
+const now = new Date();
+
+const diffMs = now - birthDate;
+
+const time = {
+  seconds: Math.floor(diffMs / 1000),
+  minutes: Math.floor(diffMs / (1000 * 60)),
+  hours:   Math.floor(diffMs / (1000 * 60 * 60)),
+  days:    Math.floor(diffMs / (1000 * 60 * 60 * 24)),
+};
+
+function diffInYearsAndMonths(start, end) {
+  let years = end.getFullYear() - start.getFullYear();
+  let months = end.getMonth() - start.getMonth();
+  let days = end.getDate() - start.getDate();
+
+  if (days < 0) months--;
+  if (months < 0) {
+    years--;
+    months += 12;
+  }
+
+  return { years, months };
+}
+
+const { years, months } = diffInYearsAndMonths(birthDate, now);
+
+console.log(`Seconds: ${time.seconds}`);
+console.log(`Minutes: ${time.minutes}`);
+console.log(`Hours:   ${time.hours}`);
+console.log(`Days:    ${time.days}`);
+console.log(`Months:  ${years * 12 + months}`);
+console.log(`Years:   ${years}`);
 
 ```
-#### Assignment 0
+#### Assignment 02
 ```js
+const now = new Date(0);
+const next10Years = new Date(now);
 
+next10Years.setFullYear(now.getFullYear() + 10);
+next10Years.setHours(0);
+next10Years.setMinutes(0);
+next10Years.setSeconds(1);
+
+console.log(next10Years);
 ```
-#### Assignment 0
+#### Assignment 03
 ```js
-
+const now = new Date();
+const lastMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+console.log(lastMonth)
+const monthName = lastMonth.toLocaleDateString("en-US", {month : "long"});
+console.log(
+	`Previous Month Is ${monthName} And Last Day Is ${lastMonth.getDate()}`
+);
 ```
-#### Assignment 0
+#### Assignment 04
 ```js
+const birth1 = new Date("2006-06-04T10:30:15");
+const birth2 = new Date(2006, 5, 4, 10, 30, 15);
+const birth3 = new Date();
 
+birth3.setFullYear(2006);
+birth3.setMonth(5);
+birth3.setDate(4);
+birth3.setHours(10);
+birth3.setMinutes(30);
+birth3.setSeconds(15);
+birth3.setMilliseconds(0);
 ```
-#### Assignment 0
+#### Assignment 05
 ```js
-
+const start = performance.now();
+for (let num = 0; num < 99999; num++) {
+	console.log(num);
+}
+const end = performance.now();
+console.log(`Execution time: ${(end - start)} ms`);
 ```
-#### Assignment 0
+#### Assignment 06
 ```js
-
+function* gen() {
+	let value = 14;
+	let step = 140;
+	
+	while (true) {
+		yield value;
+		value += step;
+		step += 200;
+	}
+}
 ```
-#### Assignment 0
+#### Assignment 07
 ```js
-
+function* genAll() {
+	yield* [...new Set(genNumbers())];
+	yield* [...new Set(genLetters())];
+}
 ```
-#### Assignment 0
+#### Assignment 08
+>mod-one.js
 ```js
-
+export default function (x, y, z) {
+	return x + y + z;
+}
+```
+>mod-two.js
+```js
+let a = 10, b = 20, c = 30;
+export const numOne = a;
+export const numTwo = b;
+export const numThree = c;
+```
+>main.js
+```js
+import calc from "./mod-one.js";
+import * as modOne from "./mod-two.js";
+console.log(calc(modOne.numOne, modOne.numTwo, modOne.numThree)); // 60
 ```
 
 ---
 ## AJAX And JSON
 ### [169 => 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
-#### Assignment 0
+#### Assignment 01
 ```js
-
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "body": "Article Number 1 Body",
+    "category": "All",
+    "author": "Ali"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "body": "Article Number 2 Body",
+    "category": "All",
+    "author": "Mahmoud"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "body": "Article Number 3 Body",
+    "category": "All",
+    "author": "Osama"
+  },
+  {
+    "id": 4,
+    "title": "Title 4",
+    "body": "Article Number 4 Body",
+    "category": "All",
+    "author": "Sayed"
+  },
+  {
+    "id": 5,
+    "title": "Title 5",
+    "body": "Article Number 5 Body",
+    "category": "All",
+    "author": "Ahmed"
+  }
+]
 ```
-#### Assignment 0
+#### Assignment 02
 ```js
+let xhr = new XMLHttpRequest();
+xhr.open("GET", "assets/data/data.json");
 
+xhr.onreadystatechange = function () {
+  if (this.readyState === 4 && this.status === 200) {
+    console.log("Data Loaded");
+  }
+};
+
+console.log(xhr);
+xhr.send();
 ```
-#### Assignment 0
+#### Assignment 03
 ```js
+let xhr = new XMLHttpRequest();
+xhr.open("GET", "assets/data/data.json");
+xhr.send();
 
+xhr.onreadystatechange = function () {
+  if (this.readyState === 4 && this.status === 200) {
+    console.log("Data Loaded");
+    let mainData = JSON.parse(xhr.responseText);
+    console.log(mainData);
+  }
+};
+
+xhr.onload = function () {
+  if (xhr.status === 200) {
+    let data = JSON.parse(xhr.responseText);
+    console.log("Length:", data.length);
+
+    data.forEach((item, index) => {
+      item.category = "notAll";
+      console.log(index, item.category);
+    });
+
+    let updatedData = JSON.stringify(data);
+    console.log(updatedData);
+  }
+};
 ```
-#### Assignment 0
+#### Assignment 04
 ```js
+xhr.onreadystatechange = function () {
+  if (this.readyState === 4 && this.status === 200) {
+    console.log("Data Loaded");
+    let mainData = JSON.parse(xhr.responseText);
+    const htmlDiv = document.getElementById("data");
 
+    mainData.forEach((item) => {
+      const div = document.createElement("div");
+      div.innerHTML = `
+        <h2>${item.title}</h2>
+        <p>${item.body}</p>
+        <p>Author: ${item.author}</p>
+        <p>Category: ${item.category}</p>
+      `;
+      htmlDiv.appendChild(div);
+    });
+  }
+};
 ```
 
 ---
 ## Promises
 ### [179 => 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
-#### Assignment 0
+#### Assignment 01
 ```js
 
 ```
-#### Assignment 0
+#### Assignment 02
 ```js
 
 ```

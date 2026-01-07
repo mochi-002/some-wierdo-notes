@@ -81,7 +81,7 @@ dv.el("div", barHtml);
 - [x] Sorting arrays
 - [x] Slicing arrays
 - [x] Joining arrays
-- [ ] Array challenges
+- [x] Array challenges ✅ 2026-01-06
 
 ## 7️⃣ Loops
 - [x] for loop
@@ -162,8 +162,8 @@ dv.el("div", barHtml);
 - [x] Session Storage ✅ 2025-12-23
 - [x] BOM challenges ✅ 2025-12-23
 #### Assignments
-- [x] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) ✅ 2025-12-23 -> [[04-Assignments]]
-- [x] [From 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) ✅ 2025-12-23 -> [[04-Assignments]]
+- [x] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) ✅ 2025-12-23 -> [[04-assignments]]
+- [x] [From 111 to 114](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) ✅ 2025-12-23 -> [[04-assignments]]
 ---
 ## 1️⃣4️⃣ Destructuring & Spread
 #### Topics
@@ -175,7 +175,7 @@ dv.el("div", barHtml);
 - [x] Spread syntax ✅ 2025-12-24
 
 #### Asignments
-- [x] [From 115 to 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/) ✅ 2025-12-24 -> [[04-Assignments]]
+- [x] [From 115 to 122](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/) ✅ 2025-12-24 -> [[04-assignments]]
 ---
 ## 1️⃣5️⃣ Advanced Data Structures
 - [x] Set ✅ 2025-12-25
@@ -189,7 +189,7 @@ dv.el("div", barHtml);
 - [x] every() ✅ 2025-12-26
 - [x] Data structure challenges ✅ 2025-12-26
 #### Asignments
-- [x] [From 123 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/) ✅ 2025-12-24 -> [[04-Assignments]] ✅ 2025-12-26
+- [x] [From 123 to 133](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/) ✅ 2025-12-24 -> [[04-assignments]] ✅ 2025-12-26
 
 ## 1️⃣6️⃣ Regular Expressions (Regex)
 - [x] Regex basics ✅ 2025-12-28
@@ -201,7 +201,7 @@ dv.el("div", barHtml);
 - [x] Form validation ✅ 2025-12-28
 - [x] Regex challenges ✅ 2025-12-28
 #### Assignments
-- [x] [From 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)  -> [[04-Assignments]] ✅ 2025-12-29
+- [x] [From 134 to 146](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)  -> [[04-assignments]] ✅ 2025-12-29
  ---
 ## 1️⃣7️⃣ Object-Oriented Programming (OOP)
 - [x] OOP principles ✅ 2025-12-29
@@ -214,64 +214,54 @@ dv.el("div", barHtml);
 - [x] Prototype chain ✅ 2025-12-29
 - [x] Object descriptors ✅ 2025-12-29
 #### Assignments
-- [x] [From 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) -> [[04-Assignments]] ✅ 2025-12-29
+- [x] [From 147 to 158](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) -> [[04-assignments]] ✅ 2025-12-29
 ---
 ## 1️⃣8️⃣ Date, Time & Generators
-- [ ] Date & time basics
-- [ ] Get date & time
-- [ ] Set date & time
-- [ ] Formatting date
-- [ ] Track execution time
-- [ ] Generator functions
-- [ ] Delegate generators
-- [ ] Infinite generators
+- [x] Date & time basics ✅ 2026-01-06
+- [x] Get date & time ✅ 2026-01-06
+- [x] Set date & time ✅ 2026-01-06
+- [x] Formatting date ✅ 2026-01-06
+- [x] Track execution time ✅ 2026-01-06
+- [x] Generator functions ✅ 2026-01-06
+- [x] Delegate generators ✅ 2026-01-06
+- [x] Infinite generators ✅ 2026-01-06
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) -> [[04-Assignments]]
+- [x] [From 159 to 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)  -> [[04-assignments]] ✅ 2026-01-06
 ---
 ## 1️⃣9️⃣ Modules
-- [ ] ES Modules
-- [ ] Import & export
-- [ ] Named vs default exports
+- [x] ES Modules ✅ 2026-01-06
+- [x] Import & export ✅ 2026-01-06
+- [x] Named vs default exports ✅ 2026-01-06
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+- [x] [From 159 to 168](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)  -> [[04-assignments]] ✅ 2026-01-06
 ---
 
-## 2️⃣0️⃣ JSON & APIs
-- [ ] JSON basics
-- [ ] JSON syntax
-- [ ] JSON vs JS Object
-- [ ] JSON.parse()
-- [ ] JSON.stringify()
-- [ ] API concept
+## 2️⃣0️⃣ JSON, AJAX & APIs
+- [x] What Is JSON ✅ 2026-01-07
+- [x] JSON Syntax And Compare With JS Object ✅ 2026-01-07
+- [x] What Is API ✅ 2026-01-07
+- [x] Parse And Stringify ✅ 2026-01-07
+- [x] Asynchronous vs Synchronous Programming ✅ 2026-01-07
+- [x] Call Stack And Web API ✅ 2026-01-07
+- [x] Event Loop And Callback Queue ✅ 2026-01-07
+- [x] What Is AJAX And Network Informations ✅ 2026-01-07
+- [x] Request and Response From Real API ✅ 2026-01-07
+- [x] Loop On Data ✅ 2026-01-07
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+- [x] [From 169 to 178](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)  -> [[04-assignments]] ✅ 2026-01-07
 ---
 
-## 2️⃣1️⃣ Asynchronous JavaScript
-- [ ] Sync vs Async
-- [ ] Call stack
-- [ ] Web APIs
-- [ ] Event loop
-- [ ] Callback queue
-- [ ] AJAX
-- [ ] XHR
-- [ ] Fetch API
-- [ ] Looping over API data
+## 2️⃣1️⃣ Promises & Async/Await
+ - [ ] Callback Hell Or Pyramid Of Doom
+ - [ ] Promise Intro And Syntax
+ - [ ] Promise – Then, Catch And Finally
+ - [ ] Promise And XHR
+ - [ ] Fetch API
+ - [ ] Promise – All, All Settled And Race
+ - [ ] Async And Trainings
+ - [ ] Await And Trainings
+ - [ ] Try, Catch, Finally With Fetch
+ - [ ] The End And Advices
 #### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
----
-
-## 2️⃣2️⃣ Promises & Async/Await
-- [ ] Callback hell
-- [ ] Promises
-- [ ] then / catch / finally
-- [ ] Promises with XHR
-- [ ] Promise.all()
-- [ ] Promise.allSettled()
-- [ ] Promise.race()
-- [ ] async
-- [ ] await
-- [ ] try / catch / finally
-#### Assignments
-- [ ] [From 102 to 110](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)  -> [[04-Assignments]]
+- [ ] [From 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)  -> [[04-assignments]]
 ---

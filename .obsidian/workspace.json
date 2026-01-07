@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9820907ecb742e99",
+        "id": "44a0e5aaa76b86d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e2c0e2bbcf22a0",
+            "id": "110dc0407311df15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
+                "file": "learning/01_frontend/javascript/00_notes/21_Promises_&_sync_Await.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_core_functions_of_a_router"
+              "title": "21_Promises_&_sync_Await"
             }
           },
           {
-            "id": "837eb783c82ad5ab",
+            "id": "74a63a2b9dccb387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/04_L3_network/03_ip_datagram_and_addressing.md",
+                "file": "learning/01_frontend/javascript/04-assignments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_ip_datagram_and_addressing"
+              "title": "04-assignments"
             }
           },
           {
-            "id": "f808aca5d721a633",
+            "id": "03867734d61b19d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/computer_networks/04_L3_network/00_overview.md",
+                "file": "learning/01_frontend/javascript/01_concepts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00_overview"
+              "title": "01_concepts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 391,
+    "collapsed": true
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -264,10 +264,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "837eb783c82ad5ab",
+  "active": "110dc0407311df15",
   "lastOpenFiles": [
-    "media/images/Pasted image 20260105054422.png",
+    "learning/01_frontend/javascript/01_concepts.md",
+    "learning/01_frontend/javascript/00_notes/21_Promises_&_sync_Await.md",
+    "learning/01_frontend/javascript/00_notes/19_modules.md",
+    "learning/01_frontend/javascript/00_notes/18_Date_,_Time_,_Generators_&_Modules.md",
+    "learning/01_frontend/javascript/00_notes/17_OOP.md",
+    "learning/01_frontend/javascript/00_notes/16_Regex.md",
+    "learning/01_frontend/javascript/00_notes/15_Maps_and_Sets.md",
+    "learning/01_frontend/javascript/00_notes/14_Destructuring & Spread.md",
+    "learning/01_frontend/javascript/00_notes/13_BOM.md",
+    "learning/01_frontend/javascript/00_notes/20_JSON,_AJAX_&_APIs.md",
+    "learning/01_frontend/javascript/04-assignments.md",
+    "learning/01_frontend/javascript/04_assignments_notes.md",
+    "knowledge/computer_networks/04_L3_network/00_overview.md",
+    "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
+    "knowledge/computer_networks/04_L3_network/02_router_architecture_overview.md",
     "knowledge/computer_networks/04_L3_network/03_ip_datagram_and_addressing.md",
+    "media/images/Pasted image 20260105054422.png",
     "media/images/Pasted image 20260105054431.png",
     "media/images/Pasted image 20260105054338.png",
     "media/images/Pasted image 20260105054335.png",
@@ -277,12 +292,9 @@
     "media/images/Pasted image 20260105053408.png",
     "knowledge/computer_networks/04_L3_network/04_ip_v4_vs_ip_v6_headers.md",
     "knowledge/computer_networks/01_models/01_osi_model_tcp_ip.md",
-    "knowledge/computer_networks/04_L3_network/00_overview.md",
-    "knowledge/computer_networks/04_L3_network/02_router_architecture_overview.md",
     "media/images/Pasted image 20260105050541.png",
     "media/images/Pasted image 20260105050339.png",
     "knowledge/computer_networks/05_L4_transport/02_tcp_vs_udp.md",
-    "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
     "knowledge/computer_networks/05_L4_transport/00_overview.md",
     "knowledge/computer_networks/05_L4_transport/05_reliable_data_transfer.md",
     "knowledge/computer_networks/05_L4_transport/04_udp_and_checksum.md",
@@ -290,7 +302,6 @@
     "knowledge/computer_networks/05_L4_transport/01_transport_basics.md",
     "knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "06_flow_and_congestion_control.md",
-    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport/06_flow_and_congestion_control.md",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport",
     "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks",
     "home/mochi/Documents/Notes/theRealVault/knowledge",
@@ -299,18 +310,8 @@
     "home/mochi/Documents",
     "home/mochi",
     "home",
-    "README.md",
-    "knowledge/computer_networks/06_L5_application/02_smtp.md",
-    "knowledge/computer_networks/06_L5_application/01_http.md",
-    "knowledge/computer_networks/06_L5_application/00_overview.md",
-    "knowledge/computer_networks/06_L5_application/01_http/02_http_basics.md",
-    "knowledge/computer_networks/06_L5_application/01_http/05_cookies_caching.md",
-    "knowledge/computer_networks/06_L5_application/01_http/04_http_messages.md",
-    "knowledge/computer_networks/06_L5_application/01_http/03_http_connections.md",
-    "knowledge/computer_networks/06_L5_application/01_http/01_web_pages.md",
     "knowledge/computer_networks/06_L5_application/04_websockets",
     "knowledge/computer_networks/06_L5_application/02_email",
-    "knowledge/computer_networks/06_L5_application/03_dns_flow.md",
     "coding_jurney/topics.canvas"
   ]
 }

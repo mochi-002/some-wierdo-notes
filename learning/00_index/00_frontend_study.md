@@ -18,7 +18,7 @@
 ## ✏️ Study Notes
 - JavaScript
 	- [[01-Concepts]]
-	- [[04-Assignments]]
+	- [[04-assignments]]
 
 ---
 ## 🧪 Practice

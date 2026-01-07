@@ -87,3 +87,42 @@ Regex is a powerful way to **search, match, or extract patterns** from text.
 - Analyze text files
 
 ---
+
+## `performance.now()`
+
+> **Definition:** A high-resolution, monotonic timestamp used for measuring precise time intervals in JavaScript.
+
+**1. Quick Syntax**
+```javascript
+const timestamp = performance.now(); 
+// Example output: 1420.300000011921 (ms)
+```
+
+**2. Why use it?**
+
+- **High Precision:** Accurate to the microsecond level (fractions of a millisecond).
+- **Monotonic:** It only ever goes forward. It is **not** affected by system clock resets or daylight savings (unlike `Date.now()`).
+- **Zero Point:** It starts at `0` when the page begins to load (`timeOrigin`).
+
+**3. Common Use Case: Benchmarking**
+
+Use it to measure how long a specific function takes to execute:
+```javascript
+const start = performance.now();
+
+// Task to measure
+for (let i = 0; i < 1000000; i++) { /* logic */ }
+
+const end = performance.now();
+console.log(`Execution time: ${(end - start).toFixed(4)} ms`);
+```
+
+**4. Comparison**
+
+|Feature|`performance.now()`|`Date.now()`|
+|---|---|---|
+|**Accuracy**|Microseconds|Milliseconds|
+|**Stability**|Guaranteed to increase|Can jump (Clock sync)|
+|**Purpose**|Performance & Animation|Timestamps & Dates|
+
+---
