@@ -17,8 +17,11 @@
 ---
 ## ✏️ Study Notes
 - JavaScript
-	- [[01-Concepts]]
+	- [[learning/01_frontend/javascript/01_concepts|01_concepts]]
+	- [[02_mistakes]]
+	- [[03_assignments_notes]]
 	- [[04-assignments]]
+	- [[05_all_course_assignments]]
 
 ---
 ## 🧪 Practice

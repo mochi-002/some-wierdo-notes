@@ -252,16 +252,23 @@ dv.el("div", barHtml);
 ---
 
 ## 2️⃣1️⃣ Promises & Async/Await
- - [ ] Callback Hell Or Pyramid Of Doom
- - [ ] Promise Intro And Syntax
- - [ ] Promise – Then, Catch And Finally
- - [ ] Promise And XHR
- - [ ] Fetch API
- - [ ] Promise – All, All Settled And Race
- - [ ] Async And Trainings
- - [ ] Await And Trainings
- - [ ] Try, Catch, Finally With Fetch
- - [ ] The End And Advices
+ - [x] Callback Hell Or Pyramid Of Doom ✅ 2026-01-08
+ - [x] Promise Intro And Syntax ✅ 2026-01-08
+ - [x] Promise – Then, Catch And Finally ✅ 2026-01-08
+ - [x] Promise And XHR ✅ 2026-01-08
+ - [x] Fetch API ✅ 2026-01-08
+ - [x] Promise – All, All Settled And Race ✅ 2026-01-08
+ - [x] Async And Trainings ✅ 2026-01-08
+ - [x] Await And Trainings ✅ 2026-01-08
+ - [x] Try, Catch, Finally With Fetch ✅ 2026-01-08
+ - [x] The End And Advices ✅ 2026-01-08
 #### Assignments
-- [ ] [From 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)  -> [[04-assignments]]
+- [x] [From 179 to 188](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)  -> [[04-assignments]] ✅ 2026-01-08
 ---
+
+## Links
+- [[learning/01_frontend/javascript/01_concepts|01_concepts]]
+- [[02_mistakes]]
+- [[03_assignments_notes]]
+- [[04-assignments]]
+- [[05_all_course_assignments]]

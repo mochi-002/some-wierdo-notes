@@ -172,3 +172,24 @@ console.log(`Hello ${myName}`);     // Template literal (ES6)
 	
 - [Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 ---
+
+## 7. Links
+- [[00_introduction_to_javascript]]
+- [[01_data_types_and_variables]]
+- [[02_operators]]
+- [[03_number_and_string]]
+- [[04_conditions_and_switch]]
+- [[05_arrays_and_methods]]
+- [[06_loops]]
+- [[07_functions]]
+- [[08_objects_and_methods]]
+- [[09_DOM]]
+- [[10_BOM]]
+- [[11_Destructuring & Spread]]
+- [[12_Maps_and_Sets]]
+- [[13_Regex]]
+- [[14_OOP]]
+- [[15_Date_,_Time_,_Generators_&_Modules]]
+- [[16_modules]]
+- [[17_JSON,_AJAX_&_APIs]]
+- [[18_Promises_&_sync_Await]]

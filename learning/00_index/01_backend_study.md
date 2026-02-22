@@ -11,7 +11,8 @@
 
 ---
 ## ✏️ Study Notes
-
+- NodeJS
+	- [[learning/02_backend/nodejs/01_concepts|01_concepts]]
 ---
 ## 🧪 Practice
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53c08252064889bb",
+        "id": "ed01584a45cdb809",
         "type": "tabs",
         "children": [
           {
-            "id": "71aca42995166922",
+            "id": "54fae4c1756c2519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/01_frontend/javascript/04-assignments.md",
+                "file": "learning/03_fullstack/Internet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04-assignments"
-            }
-          },
-          {
-            "id": "7af91a4deeebfbd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/01_frontend/javascript/00_javascript_fundamentals/18_Promises_&_sync_Await.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "18_Promises_&_sync_Await"
+              "title": "Internet"
             }
           }
         ]
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#study",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391
+    "width": 265
   },
   "right": {
     "id": "ce7d2e5bcd12ac8b",
@@ -121,7 +97,7 @@
       {
         "id": "5841b285b61ae343",
         "type": "tabs",
-        "dimension": 34.50570342205323,
+        "dimension": 36.79653679653679,
         "children": [
           {
             "id": "9ae773ef7aa88db7",
@@ -191,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -201,7 +177,7 @@
       {
         "id": "a3b9695f24084965",
         "type": "tabs",
-        "dimension": 65.49429657794677,
+        "dimension": 63.20346320346321,
         "children": [
           {
             "id": "b58df09d41ccf277",
@@ -217,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303,
+    "width": 363,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,54 +215,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71aca42995166922",
+  "active": "54fae4c1756c2519",
   "lastOpenFiles": [
-    "learning/01_frontend/javascript/00_javascript_fundamentals/18_Promises_&_sync_Await.md",
-    "learning/01_frontend/javascript/04-assignments.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/17_JSON,_AJAX_&_APIs.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/09_DOM.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/08_objects_and_methods.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/07_functions.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/06_loops.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/05_arrays_and_methods.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/04_conditions_and_switch.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/03_number_and_string.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/02_operators.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/01_data_types_and_variables.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/10_BOM.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/00_introduction_to_javascript.md",
-    "learning/01_frontend/javascript/01_concepts.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/16_modules.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/15_Date_,_Time_,_Generators_&_Modules.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/14_OOP.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/13_Regex.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/12_Maps_and_Sets.md",
-    "learning/01_frontend/javascript/00_javascript_fundamentals/11_Destructuring & Spread.md",
-    "learning/01_frontend/javascript/04_assignments_notes.md",
-    "knowledge/computer_networks/04_L3_network/00_overview.md",
-    "knowledge/computer_networks/04_L3_network/01_core_functions_of_a_router.md",
-    "knowledge/computer_networks/04_L3_network/02_router_architecture_overview.md",
-    "knowledge/computer_networks/04_L3_network/03_ip_datagram_and_addressing.md",
-    "media/images/Pasted image 20260105054422.png",
-    "media/images/Pasted image 20260105054431.png",
-    "media/images/Pasted image 20260105054338.png",
-    "media/images/Pasted image 20260105054335.png",
-    "media/images/Pasted image 20260105054037.png",
-    "media/images/Pasted image 20260105053748.png",
-    "media/images/Pasted image 20260105053545.png",
-    "media/images/Pasted image 20260105053408.png",
-    "media/images/Pasted image 20260105050541.png",
-    "media/images/Pasted image 20260105050339.png",
-    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks/05_L4_transport",
-    "home/mochi/Documents/Notes/theRealVault/knowledge/computer_networks",
-    "home/mochi/Documents/Notes/theRealVault/knowledge",
-    "home/mochi/Documents/Notes/theRealVault",
-    "home/mochi/Documents/Notes",
-    "home/mochi/Documents",
-    "home/mochi",
-    "home",
-    "knowledge/computer_networks/06_L5_application/04_websockets",
-    "knowledge/computer_networks/06_L5_application/02_email",
+    "learning/03_fullstack/00-roadmap.canvas",
+    "learning/03_fullstack/Internet.md",
+    "problem solving with the partnar/Topics Tracker -> abdul aal.md",
+    "problem solving with the partnar/GYM Log.md",
+    "problem solving with the partnar/DSA Playlist Sheets.md",
+    "learning/02_backend/Mariam Ahmed Tasks.md",
+    "knowledge/roadmap.sh/Data Structures & Algorithms.md",
+    "hidden/Python Notes.md",
+    "knowledge/DSA/Session 2 - Sheet.md",
+    "knowledge/DSA/Session 1 - recape.md",
+    "resources/linux/mp3_downloading.md",
+    "resources/linux/youtube_downloading_guide.md",
+    "hidden/problem_solving/GYMS.md",
+    "islam/البناء المنهجي/العلم/01_العلم بين المنهجية والفوضوية.md",
+    "islam/البناء المنهجي/العلم/00_العلم باللع عز وجل.md",
+    "islam/البناء المنهجي/00_المرحلة التمهيدية/المستوى التمهيدي - دفعة الأمداد.pdf",
+    "islam/البناء المنهجي/00_المرحلة التمهيدية/المحتوى الدراسي.md",
+    "islam/البناء المنهجي/اﻟﻮﻋﻲ",
+    "islam/البناء المنهجي/اﻟﻤﻨﻬﺞ اﻹﺻﻼﺣﻲ",
+    "islam/البناء المنهجي/العلم",
+    "islam/البناء المنهجي/الإبمان",
+    "islam/البناء المنهجي/00_المرحلة التمهيدية",
+    "2026-log/playlists/watching.md",
+    "2026-log/books/reading.md",
+    "knowledge/roadmap.sh/Backend.md",
+    "hidden/problem_solving/mentor_training_26.md",
+    "hidden/problem_solving/comeback_divs.md",
+    "hidden/media/Pasted image 20260116204825.png",
+    "islam/البناء المنهجي",
+    "hidden/formats/markdown_formating_prompet.md",
+    "hidden/formats/css_tricky_formats.md",
+    "hidden/DRC/أبوك مبيحبكش.md",
+    "hidden/DRC/Untitled.md",
+    "2026-log/playlists",
+    "2026-log/books",
+    "knowledge/roadmap.sh",
+    "media_to_remove/Pasted image 20260111115028.png",
+    "Pasted image 20260116204832.png",
+    "hidden/hidden_media/Pasted image 20260116204825.png",
+    "media_to_remove/Pasted image 20260112095305.png",
+    "media_to_remove/Pasted image 20260112095241.png",
+    "media_to_remove/Pasted image 20260112095238.png",
+    "media_to_remove/Pasted image 20260112095158.png",
+    "media_to_remove/Pasted image 20260112095148.png",
+    "media_to_remove/Pasted image 20260111115423.png",
     "coding_jurney/topics.canvas"
   ]
 }

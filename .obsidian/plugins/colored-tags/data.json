@@ -27,7 +27,26 @@
     "studies": 15,
     "\u0007": 16,
     "section": 17,
-    "e": 18
+    "e": 18,
+    "week0": 19,
+    "rajab": 20,
+    "week1": 21,
+    "week2": 22,
+    "shaban": 23,
+    "week3": 24,
+    "week4": 25,
+    "week5": 26,
+    "week6": 27,
+    "ramadan": 28,
+    "week7": 29,
+    "week8": 30,
+    "final": 31,
+    "study": 32,
+    "tag": 33,
+    "temp": 34,
+    "tricks": 35,
+    "jan": 36,
+    "Jan": 37
   },
   "_version": 3
 }

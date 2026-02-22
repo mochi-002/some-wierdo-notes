@@ -1,4 +1,5 @@
 # 📥 YouTube Downloading & Merging Guide (Linux)
+#tricks
 
 A clean reference for **downloading YouTube videos** and ensuring **video + audio are merged into a single MP4 file** using **yt-dlp** and **ffmpeg**.
 

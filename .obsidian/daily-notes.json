@@ -1,5 +1,4 @@
 {
-  "autorun": true,
   "template": "template_folder/daily_notes",
   "folder": "0 - Daily Notes",
   "format": "DD-MMM-YYYY"

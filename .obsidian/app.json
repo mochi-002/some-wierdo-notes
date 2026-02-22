@@ -10,5 +10,6 @@
   "showInlineTitle": false,
   "readableLineLength": false,
   "showIndentGuide": true,
-  "useTab": true
+  "useTab": true,
+  "openBehavior": "daily"
 }

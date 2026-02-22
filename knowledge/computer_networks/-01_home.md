@@ -1,0 +1,37 @@
+## Tree
+- topics
+	- [[00_index]]
+- models
+	- [[01_osi_model_tcp_ip]]
+- physical layer
+- data link layer
+- network layer
+	- [[knowledge/computer_networks/04_L3_network/00_overview|00_overview]]
+	- [[01_core_functions_of_a_router]]
+	- [[02_router_architecture_overview]]
+	- [[03_ip_datagram_and_addressing]]
+	- [[04_ip_v4_vs_ip_v6_headers]]
+- transport layer
+	- [[knowledge/computer_networks/05_L4_transport/00_overview|00_overview]]
+	- [[01_transport_basics]]
+	- [[02_tcp_vs_udp]]
+	- [[03_multiplexing_demultiplexing]]
+	- [[04_udp_and_checksum]]
+	- [[05_reliable_data_transfer]]
+	- [[06_flow_and_congestion_control]]
+- application layer
+	- [[knowledge/computer_networks/06_L5_application/00_overview|00_overview]]
+	- [[01_http]]
+	- [[02_smtp]]
+	- [[03_dns_flow]]
+	- [[04_websockets]]
+- infrastructure
+	- [[01_load_balancing]]
+	- [[02_proxy_vs_reverse_proxy]]
+	- [[03_caching_strategies]]
+- api
+	- [[01_api_communication_styles]]
+- advanced
+	- [[01_advanced_networking_topics]]
+- cross security
+	- [[01_tls_handshake]]
