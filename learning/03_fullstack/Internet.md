@@ -156,7 +156,7 @@ Routers:
 - Video (فيه موسيقى) -> [HTTP Explained in 3 minutes](https://www.youtube.com/watch?v=KvGi-UDfy00)
 - Blog -> [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 - Blog -> [CloudFlare what is http?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-
+---
 ### Study Notes
 
 - HTTP = **Hypertext Transfer Protocol**  
