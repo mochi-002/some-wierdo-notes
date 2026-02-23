@@ -436,8 +436,8 @@ Contains:
 - Real lookups are usually **recursive** (resolver does all the work) vs **iterative** (client would have to ask each server — rare).
 ---
 ## Browsers and how they work?
-- Video -> [How The Web Works - The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug)
-- Blog -> [ACADEMIND || How The Web Works](https://academind.com/tutorials/how-the-web-works)
+- Video -> [How The Web Works - The Big Picture](https://www.youtube.com/watch?v=hJHvdBlSxug) ✅
+- Blog -> [ACADEMIND || How The Web Works](https://academind.com/tutorials/how-the-web-works) ✅
 ---
 ### Study Notes
 
