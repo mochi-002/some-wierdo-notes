@@ -23,6 +23,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "d8fd0a4c11fd3f2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd53484362cfe43d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "learning/03_fullstack/00-roadmap.canvas",
+                "viewState": {
+                  "x": -8.5,
+                  "y": -413.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "00-roadmap"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,6 +233,7 @@
   "active": "54fae4c1756c2519",
   "lastOpenFiles": [
     "learning/03_fullstack/00-roadmap.canvas",
+    "learning/03_fullstack/HTML.md",
     "learning/03_fullstack/Internet.md",
     "problem solving with the partnar/Topics Tracker -> abdul aal.md",
     "problem solving with the partnar/GYM Log.md",
