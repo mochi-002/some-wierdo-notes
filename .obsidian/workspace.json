@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ed01584a45cdb809",
+        "id": "e9b4722d0e348e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "54fae4c1756c2519",
+            "id": "7e66a57168b8dd20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/03_fullstack/Internet.md",
-                "mode": "source",
+                "file": "learning/03_fullstack/HTML.md",
+                "mode": "preview",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "HTML"
             }
           }
         ]
@@ -37,7 +46,7 @@
                 "file": "learning/03_fullstack/00-roadmap.canvas",
                 "viewState": {
                   "x": -8.5,
-                  "y": -413.5,
+                  "y": -467,
                   "zoom": 0
                 }
               },
@@ -230,12 +239,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "54fae4c1756c2519",
+  "active": "7e66a57168b8dd20",
   "lastOpenFiles": [
-    "learning/03_fullstack/00-roadmap.canvas",
+    "learning/03_fullstack/oldHTML.md",
     "learning/03_fullstack/HTML.md",
-    "learning/03_fullstack/Internet.md",
+    "_blank.md",
+    "learning/03_fullstack/00-roadmap.canvas",
     "problem solving with the partnar/Topics Tracker -> abdul aal.md",
+    "problem solving with the partnar/Topics Tracker -> mariam.md",
+    "learning/03_fullstack/Internet.md",
     "problem solving with the partnar/GYM Log.md",
     "problem solving with the partnar/DSA Playlist Sheets.md",
     "learning/02_backend/Mariam Ahmed Tasks.md",
@@ -264,8 +276,6 @@
     "islam/البناء المنهجي",
     "hidden/formats/markdown_formating_prompet.md",
     "hidden/formats/css_tricky_formats.md",
-    "hidden/DRC/أبوك مبيحبكش.md",
-    "hidden/DRC/Untitled.md",
     "2026-log/playlists",
     "2026-log/books",
     "knowledge/roadmap.sh",
