@@ -1230,3 +1230,357 @@ Semantic → built-in accessibility (e.g., `<button>` focusable by default)
 - [Form Part Two](https://elzero.org/html-assignments-lesson-from-28-to-30/) -> 3 **Assignments**
 - [Form Part Three](https://elzero.org/html-assignments-lesson-from-31-to-34/) -> 4 **Assignments**
 - [iFrame, ARIA](https://elzero.org/html-assignments-lesson-from-35-to-37/) -> 2 **Assignments**
+# Assignments Solution
+## Elements and Comments
+### Assignment no.1
+```html
+<!-- HTML = Hyper Text Markup Language -->
+```
+---
+### Assignment no.2
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My First Page</title>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+    </style>
+
+    <script>
+    </script>
+</head>
+<body>
+    <p>This is my First Page</p>
+</body>
+</html>
+```
+---
+### Assignment no.3
+```html
+<!-- No, Yes, No, No -->
+```
+---
+### Assignment no.4
+```html
+<!--
+Meta Tags
+- For defining the content encoding
+- To make the view responsive
+- Set the description of the web content
+- To define something
+-->
+<meta charset="UTF-8">
+<meta name="description" content="This Is Description For My First Page">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Potato">
+```
+---
+## Heading and Attributes
+### Assignment no.1
+```html
+<!-- Type Question 1 Answer Below -->
+<!DOCTYPE html>
+
+<!-- Type Question 2 Answer Below -->
+Quark Mode
+
+<!-- Type Question 3 Answer Below -->
+Nope
+
+<!-- Type Question 4 Answer Below -->
+Nope
+
+<!-- Type Question 5 Answer Below -->
+Heading Formats
+```
+---
+### Assignment no.2
+```html
+<!-- Nope -->
+```
+---
+### Assignment no.3
+```html
+<!-- Nope -->
+```
+---
+### Assignment no.4
+```html
+<!-- Yes -->
+```
+---
+### Assignment no.5
+```html
+<!--
+title     - Global
+href
+src
+hidden    - Global
+charset
+class     - Global
+id        - Global
+type
+-->
+```
+---
+### Assignment no.6
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Book Store</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h1>Book Store</h1>
+    <p>a Book Store</p>
+
+    <h2>Devices</h2>
+
+    <h3>Gaming Laptop</h3>
+    <p>a gaming laptop</p>
+    <hr>
+
+    <h3>Basic Laptop</h3>
+    <p>a basic laptop</p>
+    <hr>
+
+    <h3>Computer</h3>
+    <p>a computer</p>
+    <hr>
+
+    <h2>Accessories</h2>
+
+    <h3>Mouse</h3>
+    <p>a mouse</p>
+    <hr>
+
+    <h3>Keyboard</h3>
+    <p>a keyboard</p>
+    <hr>
+
+    <h3>Headphone</h3>
+    <p>a headphone</p>
+    <hr>
+
+</body>
+</html>
+```
+---
+### Assignment no.7
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+</head>
+<body>
+
+    <h1>My Page</h1>
+
+    <p>This Is My Page</p>
+    <p>This Is My First Work</p>
+
+    <h2>Section One</h2>
+    <p>This Is Section One</p>
+
+</body>
+</html>
+```
+---
+## Link, Image, List
+### Assignment no.1
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+</head>
+<body>
+
+    <h1>My Info</h1>
+
+    <p>My Name is <b>Osama Elzero</b></p>
+    <p>I am <b>Available</b> for Hire</p>
+    <p>
+        My Hour Old Price is <del>$10</del>
+        And The New Price is <mark>$300</mark>
+    </p>
+    <p>
+        Visit My Website From This Link
+        <a href="">Elzero Academy</a>
+    </p>
+
+    <hr>
+
+    <h2>Here is Some Of My Clients</h2>
+
+    <img src="" alt="" width="150" height="150" style="background-color: black;">
+    <img src="" alt="" width="150" height="150" style="background-color: red;">
+    <img src="" alt="" width="150" height="150" style="background-color: blue;">
+
+    <hr>
+
+    <h2>My Skills</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>
+            JavaScript
+            <ul>
+                <li>Vuejs</li>
+                <li>Reactjs</li>
+                <li>
+                    Angular
+                    <ol type="1" start="4">
+                        <li>v4.0</li>
+                        <li>v5.0</li>
+                        <li>v6.0</li>
+                        <li>v7.0</li>
+                        <li>v8.0</li>
+                    </ol>
+                </li>
+                <li>Svelte</li>
+            </ul>
+        </li>
+        <li>Python</li>
+    </ul>
+
+</body>
+</html>
+```
+---
+### Assignment no.2
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+</head>
+<body>
+
+    <ul>
+        <li>One</li>
+        <ol type="A" start="3">
+            <li>C</li>
+            <li>D</li>
+            <li>E</li>
+        </ol>
+
+        <li>Two</li>
+        <ol type="I" start="3">
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+        </ol>
+
+        <li>Three</li>
+        <ol type="a" start="4" reversed>
+            <li>d</li>
+            <li>c</li>
+            <li>b</li>
+        </ol>
+    </ul>
+
+</body>
+</html>
+```
+---
+### Assignment no.3
+```html
+<!-- كسلت اعمله -->
+```
+---
+### Assignment no.4
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+</head>
+<body>
+
+    <dl>
+        <dt>Learn Programming</dt>
+        <dd>Learn Computer Science</dd>
+        <dd>Learn Database</dd>
+
+        <dt>Design</dt>
+        <dd>Learn Graphics</dd>
+        <dd>Learn Sketching</dd>
+    </dl>
+
+</body>
+</html>
+```
+---
+## Table, Div
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```
+##### Assignment no.3
+```html
+```
+## Audio, Video
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```
+##### Assignment no.3
+```html
+```
+##### Assignment no.4
+```html
+```
+
+## Form Part 1
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```
+## Form Part 2
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```
+##### Assignment no.3
+```html
+```
+## Form Part 3
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```
+##### Assignment no.3
+```html
+```
+##### Assignment no.4
+```html
+```
+
+## iFrame, ARIA
+##### Assignment no.1
+```html
+```
+##### Assignment no.2
+```html
+```

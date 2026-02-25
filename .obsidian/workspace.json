@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "learning/03_fullstack/HTML.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,29 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "HTML"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8fd0a4c11fd3f2b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd53484362cfe43d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "learning/03_fullstack/00-roadmap.canvas",
-                "viewState": {
-                  "x": -8.5,
-                  "y": -467,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "00-roadmap"
             }
           }
         ]
@@ -241,10 +218,11 @@
   },
   "active": "7e66a57168b8dd20",
   "lastOpenFiles": [
-    "learning/03_fullstack/oldHTML.md",
-    "learning/03_fullstack/HTML.md",
-    "_blank.md",
+    "Pasted image 20260225192049.png",
     "learning/03_fullstack/00-roadmap.canvas",
+    "learning/03_fullstack/HTML.md",
+    "learning/03_fullstack/oldHTML.md",
+    "_blank.md",
     "problem solving with the partnar/Topics Tracker -> abdul aal.md",
     "problem solving with the partnar/Topics Tracker -> mariam.md",
     "learning/03_fullstack/Internet.md",
@@ -275,7 +253,6 @@
     "hidden/media/Pasted image 20260116204825.png",
     "islam/البناء المنهجي",
     "hidden/formats/markdown_formating_prompet.md",
-    "hidden/formats/css_tricky_formats.md",
     "2026-log/playlists",
     "2026-log/books",
     "knowledge/roadmap.sh",
